@@ -1,0 +1,13 @@
+[
+  {
+    "ts": 1757980161.9652987,
+    "agent": "financial_deepdive",
+    "event": "finance_llm",
+    "keys": [
+      "metrics",
+      "assumptions",
+      "sensitivities",
+      "flags"
+    ]
+  }
+]

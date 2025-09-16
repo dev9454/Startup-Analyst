@@ -1,0 +1,27 @@
+[
+  {
+    "ts": 1757876112.1426852,
+    "agent": "ingestion",
+    "event": "ingested",
+    "n_docs": 27
+  },
+  {
+    "ts": 1757876121.8103597,
+    "agent": "ingestion",
+    "event": "facts_llm",
+    "keys": [
+      "founders",
+      "traction",
+      "unit_economics",
+      "market",
+      "product",
+      "legal"
+    ]
+  },
+  {
+    "ts": 1757876126.57904,
+    "agent": "ingestion",
+    "event": "claims_llm",
+    "n": 10
+  }
+]
