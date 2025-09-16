@@ -1,0 +1,33 @@
+# Core
+boto3>=1.34.0
+botocore>=1.34.0
+
+# LangChain ecosystem
+langchain>=0.2.2
+langchain-community>=0.2.2
+langchain-text-splitters>=0.2.0
+langchain-huggingface>=0.0.3
+
+# Vector store + embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# Document loaders
+pypdf>=4.0.0
+PyMuPDF>=1.23.0
+pdfplumber>=0.10.3
+docx2txt>=0.8
+unstructured>=0.14.0
+
+# Web + search adapters
+requests>=2.31.0
+tenacity>=8.2.2
+
+# JSON parsing/repair
+json5>=0.9.14
+
+# Utils
+tqdm>=4.66.0
+
+# Optional: for plotting peer positioning charts later
+matplotlib>=3.8.0
