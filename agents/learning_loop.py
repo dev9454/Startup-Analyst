@@ -1,4 +1,3 @@
-# agents/learning_loop.py
 import json, os
 from agents.base import BaseAgent
 
@@ -15,7 +14,6 @@ class LearningLoopAgent(BaseAgent):
         return {"weights":{"founders":0.30,"traction":0.25,"unit_econ":0.25,"market":0.20}}
 
     def feedback(self, thumbs_up: bool, reason: str = ""):
-        # For hackathon: record feedback; weights can be re-optimized by LLM later
         self.state.setdefault("feedback", []).append({"ok":thumbs_up, "reason":reason})
         os.makedirs(os.path.dirname(STATE_PATH), exist_ok=True)
         json.dump(self.state, open(STATE_PATH,"w",encoding="utf-8"), indent=2)

@@ -1,8 +1,7 @@
 from agents.base import BaseAgent
-from tools.llm import call_bedrock_llm
+from tools.llm_router import call_llm_json
 from tools.jsonio import parse_json_or_repair
 from tools.search_multi import multi_search
-from tools.json_prompt import build_json_prompt
 
 PEERS_SCHEMA = """{
   "peers":[{"name":"","brief_reason":"","url":null,"stage":null,"revenue_or_arr":null,"ev":null,"notes":null}],
@@ -10,7 +9,8 @@ PEERS_SCHEMA = """{
 }"""
 
 class PeerBenchmarkAgent(BaseAgent):
-    def __init__(self): super().__init__(name="peer_benchmark")
+    def __init__(self):
+        super().__init__(name="peer_benchmark")
 
     def run(self, company: str, sector: str):
         queries = [
@@ -27,14 +27,16 @@ class PeerBenchmarkAgent(BaseAgent):
                     break
             if len(ctx_lines) >= 25:
                 break
-        context = "\n\n".join(ctx_lines)
 
-        user_prompt = build_json_prompt(
-            PEERS_SCHEMA,
-            task_hint=("Identify 5–10 comparables (same sector/geo/stage). For each include name, reason, url, stage, "
-                       "revenue_or_arr (if any), ev (if any), notes. Add 3–5 insights.")
+        context = "\n\n".join(ctx_lines) if ctx_lines else f"TARGET={company}\nSECTOR={sector}"
+
+        task_hint = (
+            "Identify 5–10 comparable startups (same sector/geo/stage). "
+            "For each include: name, brief_reason, url, stage, revenue_or_arr (if any), ev (if any), notes. "
+            "Add 3–5 insights. Return exactly one JSON object matching the schema."
         )
-        raw = call_bedrock_llm(user_prompt=user_prompt, context=context)
+
+        raw = call_llm_json(task_hint=task_hint, schema=PEERS_SCHEMA, context=context)
         out = parse_json_or_repair(raw)
         self.log("peers_llm", {"n": len(out.get('peers', [])) if isinstance(out, dict) else 0})
         return out

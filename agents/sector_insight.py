@@ -1,11 +1,8 @@
-# agents/sector_insight.py
 from agents.base import BaseAgent
-from tools.llm import call_bedrock_llm
 from tools.jsonio import parse_json_or_repair
-from tools.json_prompt import build_json_prompt
 from tools.json_sanitize import sanitize_currency_percent
+from tools.llm_router import call_llm_json
 
-# Use numeric targets with explicit unit/period to avoid $ and % in numbers
 SECTOR_SCHEMA = """{
   "kpis":["..."],
   "baselines":[{"kpi":"","target":0.0,"unit":"","period":""}],
@@ -13,17 +10,17 @@ SECTOR_SCHEMA = """{
 }"""
 
 class SectorInsightAgent(BaseAgent):
-    def __init__(self): super().__init__(name="sector_insight")
+    def __init__(self):
+        super().__init__(name="sector_insight")
 
     def load(self, sector: str, extra_context: str = ""):
         context = f"SECTOR={sector}\n{extra_context}"
-        user_prompt = build_json_prompt(
-            SECTOR_SCHEMA,
-            task_hint=("Output sector KPIs, numeric baselines, and slide-ready snippets. "
-                       "For each baseline provide: kpi, target (number only), unit (e.g., 'USD','%','mo'), period (e.g., 'monthly').")
+        task_hint = (
+            "Output sector KPIs, numeric baselines (target as number only), and slide-ready snippets. "
+            "For each baseline include: kpi, target, unit (USD/%/mo), period (monthly/quarterly)."
         )
-        raw = call_bedrock_llm(user_prompt=user_prompt, context=context)
-        raw = sanitize_currency_percent(raw)           # <- fix $ and %
-        out = parse_json_or_repair(raw)                # <- robust parse
+        raw = call_llm_json(task_hint=task_hint, schema=SECTOR_SCHEMA, context=context)
+        raw = sanitize_currency_percent(raw)
+        out = parse_json_or_repair(raw)
         self.log("sector_llm", {"sector": sector})
         return out
