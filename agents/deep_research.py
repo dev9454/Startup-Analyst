@@ -10,15 +10,49 @@ class DeepResearchAgent(BaseAgent):
     def __init__(self):
         super().__init__(name="deep_research")
 
-    def verify(self, claims: List[str], local_evidence: List[Dict[str,str]] | None = None):
-        # Search multiple backends per claim; keep it efficient
-        web_ev: List[Dict[str, str]] = []
+    def _normalize_claims(self, claims_in) -> list[str]:
+        """Coerce claims into a clean list[str]. Accepts list[str] or dict with 'claims', or list[dict]."""
+        if isinstance(claims_in, dict):
+            claims_in = claims_in.get("claims", [])
+        out: list[str] = []
+        for c in claims_in or []:
+            if isinstance(c, str):
+                s = c.strip()
+                if s:
+                    out.append(s)
+            elif isinstance(c, dict):
+                # common shapes: {"claim": "..."} or {"text": "..."}
+                s = c.get("claim") or c.get("text") or ""
+                s = str(s).strip()
+                if s:
+                    out.append(s)
+            else:
+                s = str(c).strip()
+                if s:
+                    out.append(s)
+        # dedupe while preserving order
+        seen = set(); dedup = []
+        for s in out:
+            if s not in seen:
+                seen.add(s); dedup.append(s)
+        return dedup
+
+    def verify(self, claims, local_evidence: list[dict[str,str]] | None = None):
+        # 1) normalize claims
+        claims = self._normalize_claims(claims)
+        if not claims:
+            self.log("verified", {"n_claims": 0, "evidence_used": 0})
+            return {"checks": []}
+
+        # 2) fetch web evidence
+        web_ev: list[dict[str, str]] = []
         for c in claims[:10]:
-            for q in {c, f"{c} founder", f"{c} revenue", f"{c} market size", f"{c} site:news"}:
+            queries = {c, f"{c} founder", f"{c} revenue", f"{c} market size", f"{c} site:news"}
+            for q in queries:
                 web_ev += multi_search(q, k_total=8)
 
-        # Build compact evidence set (merge web + local)
-        merged: List[Dict[str, str]] = []
+        # 3) merge evidence (web + local)
+        merged: list[dict[str, str]] = []
         seen = set()
         for src in (web_ev + (local_evidence or [])):
             url = (src.get("url") or src.get("source") or "local").strip()
@@ -31,9 +65,10 @@ class DeepResearchAgent(BaseAgent):
             if len(merged) >= 25:
                 break
 
-        # Put claims up front so the model knows what to verify
         claims_block = "\n".join(f"- {c}" for c in claims[:10])
-        context = f"CLAIMS TO VERIFY:\n{claims_block}\n\nEVIDENCE:\n" + "\n\n".join([f"{e['url']}\n{e['quote']}" for e in merged])
+        context = f"CLAIMS TO VERIFY:\n{claims_block}\n\nEVIDENCE:\n" + "\n\n".join(
+            f"{e['url']}\n{e['quote']}" for e in merged
+        )
 
         task_hint = (
             "For each claim, set status in {supported|mixed|refuted|unknown}, add a 1–2 sentence rationale, "

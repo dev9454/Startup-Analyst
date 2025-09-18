@@ -1,0 +1,36 @@
+{
+  "tam": {
+    "value": 142500000000,
+    "currency": "USD",
+    "year": 2025,
+    "method": "Top-down approach using the total projected size of the Indian fintech market, calculated from the 2024 base value and projected growth rate.",
+    "sources": [
+      {
+        "url": "https://www.imarcgroup.com/india-fintech-market",
+        "quote": "The fintech market in India was valued at USD 121.4 Billion in 2024... projected to exhibit a CAGR of 17.4% during 2025-2033."
+      }
+    ]
+  },
+  "sam": {
+    "value": 16400000000,
+    "currency": "USD",
+    "assumptions": [
+      "SAM is the segment of the Indian fintech market relevant to Multipl's 'save now, buy later' model, focusing on digitally savvy consumers planning discretionary spending.",
+      "Assumes the serviceable market consists of the entire WealthTech sector (6%) and a convertible 10% of the Payments sector (5.5%), totaling 11.5% of TAM.",
+      "Market segmentation data is based on EY's 2023 fintech revenue breakdown for India."
+    ]
+  },
+  "som": {
+    "value": 164000000,
+    "currency": "USD",
+    "assumptions": [
+      "Represents a realistic market share Multipl can capture in the near term (3-5 years) as an early mover in the 'save now, buy later' niche.",
+      "Assumes capturing 1% of the SAM amidst competition from traditional savings, BNPL, and other fintech investment platforms.",
+      "Achievability is dependent on successful brand partnerships, go-to-market strategy, and user adoption rates."
+    ]
+  },
+  "delta_vs_deck": {
+    "tam_pct": null,
+    "notes": "Deck not available to compare against."
+  }
+}

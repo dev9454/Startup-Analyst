@@ -1,8 +1,0 @@
-[
-  {
-    "ts": 1757980292.8392274,
-    "agent": "customer_sentiment",
-    "event": "sentiment_llm",
-    "ok": true
-  }
-]

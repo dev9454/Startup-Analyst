@@ -1,0 +1,29 @@
+{
+  "app": {
+    "platform": "Google Play & Apple App Store",
+    "rating": 4.4,
+    "reviews_sample": [
+      {
+        "quote": "Purpose of the app is good, but I felt it’s slightly misleading on the returns",
+        "date": null
+      }
+    ]
+  },
+  "themes": {
+    "pros": [
+      "Save-to-spend model for goals",
+      "No lock-in period, funds can be withdrawn anytime",
+      "Dual benefits from investment returns and brand co-investments"
+    ],
+    "cons": [
+      "Investment returns can be misleading",
+      "App concept may be unclear to new users",
+      "Market-based returns are not guaranteed"
+    ]
+  },
+  "social_snippets": [],
+  "alerts": [
+    "User feedback indicates returns on investment can be 'slightly misleading'.",
+    "Multiple complaints on a single issue can signal systemic product or service issues."
+  ]
+}

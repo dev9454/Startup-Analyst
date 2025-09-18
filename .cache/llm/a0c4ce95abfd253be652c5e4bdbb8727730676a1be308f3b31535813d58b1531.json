@@ -1,0 +1,64 @@
+{
+  "scalability": {
+    "summary": "The company has a multi-pronged, scalable model including SaaS subscriptions (tiered), enterprise licensing, and marketplace commissions, described as 'Scalable like AWS'.",
+    "drivers": [
+      "SaaS",
+      "Marketplace",
+      "Self-serve",
+      "API",
+      "Network effects"
+    ],
+    "unit_cost_levers": [
+      "Automation via proprietary AI engine",
+      "Cloud infrastructure optimization"
+    ]
+  },
+  "fundraising": {
+    "total_raised_to_date": null,
+    "current_round": "Seed",
+    "target_raise": 1200000,
+    "pre_money": null,
+    "post_money": null,
+    "dilution_target_pct": null,
+    "deal_rationale": ""
+  },
+  "funding_ask": {
+    "ask": 1200000,
+    "milestones": [],
+    "spend_breakdown": [],
+    "runway_months": null,
+    "commitments_or_lois": []
+  },
+  "key_problem_solved": {
+    "customer_pain_points": [
+      "Building immersive experiences requires complex software skills and massive human resources.",
+      "High learning curve and entry barriers for businesses.",
+      "Experiences built on traditional game engines lack universal device compatibility."
+    ],
+    "solution_how": [
+      "Provides a no-code, browser-based 'Unified XR Commerce Studio'.",
+      "Uses a proprietary 3D engine and AI (VersaAI) to instantly create and deploy 3D/XR experiences.",
+      "Ensures cross-platform compatibility across web, mobile, and headsets."
+    ]
+  },
+  "why_now": {
+    "thesis": "All physical and online human interactions will inevitably move to immersive reality, and Ctruh is positioned to enable this transition.",
+    "catalysts": [
+      "Behavioral shift towards immersive digital experiences.",
+      "Technological inflection point with generative AI for 3D asset creation."
+    ],
+    "proof_points": [
+      "1600+ active users",
+      "30 customers, including 9 enterprise clients",
+      "59K+ website visitors in the last year",
+      "Launched 4 products",
+      "Recognized by Forbes, DGEMS, and multiple startup awards",
+      "Accepted into accelerators like Microsoft, Google, and NVIDIA."
+    ]
+  },
+  "data_quality_notes": [
+    "The funding ask is clear, but there is no breakdown of fund utilization, milestones, or runway.",
+    "Traction metrics are provided but lack specific timeframes for user and customer acquisition.",
+    "No financial projections or detailed fundraising history are included."
+  ]
+}

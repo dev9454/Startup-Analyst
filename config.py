@@ -2,13 +2,17 @@
 LLM_PROVIDER = "gemini"
 
 # === Gemini Settings ===
-GEMINI_API_KEY = "AIzaSyA6A4tWHVET4089q8gFr-S0_L65X3iEIvY"
-GEMINI_MODEL_ID = "gemini-1.5-pro"
-
+GEMINI_API_KEY = "AIzaSyAxe-3d67qUKphipqFeuxDUHxsZNZUALa0"
+GEMINI_MODEL_ID = "gemini-2.5-pro"
+GEMINI_MODEL_NAME = GEMINI_MODEL_ID
 # === Vertex AI Embeddings ===
 GCP_PROJECT = "startup-analyst-472410"
 GCP_LOCATION = "us-central1"
 VERTEX_EMBED_MODEL = "text-embedding-004"
+
+DOCAI_PROJECT   = "startup-analyst-472410"   # your GCP project ID
+DOCAI_LOCATION  = "us"                       # region shown in console
+DOCAI_PROCESSOR = "27defb4a6a1a1ab1"         # processor ID from console
 
 # Tavily (used by tools/search_adapters.py). Leave blank if using --no-web.
 TAVILY_API_KEY = "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"

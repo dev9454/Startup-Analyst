@@ -1,6 +1,8 @@
 # main.py
 import argparse
 from orchestration.orchestrator import Orchestrator
+import os
+os.environ.setdefault("USER_AGENT", "StartupAnalyst/0.1 (contact: you@example.com)")
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()

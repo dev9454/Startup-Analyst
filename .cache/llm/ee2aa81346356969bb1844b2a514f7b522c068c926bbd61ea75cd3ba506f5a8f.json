@@ -1,0 +1,49 @@
+{
+  "requirements": [
+    "Compliance with the Digital Personal Data Protection Act (DPDPR)",
+    "Compliance with the Information Technology Act, 2000 and SPDI Rules, 2011",
+    "Intellectual Property (IP) rights registration and licensing compliance",
+    "Adherence to information security regulations",
+    "Compliance with Ministry of Electronics and Information Technology (MeitY) frameworks",
+    "Technology transfer and licensing agreement regulations",
+    "For FinTech: AML/CFT compliance, including CTR and STR reporting",
+    "For HealthTech: Clinical trial registration and ethical compliance (2019-CTRules)"
+  ],
+  "matched": [],
+  "missing": [
+    "Compliance with the Digital Personal Data Protection Act (DPDPR)",
+    "Compliance with the Information Technology Act, 2000 and SPDI Rules, 2011",
+    "Intellectual Property (IP) rights registration and licensing compliance",
+    "Adherence to information security regulations"
+  ],
+  "citations": [
+    {
+      "url": "https://www.indiaconnected.co.uk/blog-articles/digital-compliance-india-preparing-international-business-requirements-2026/",
+      "quote": "This regulatory framework introduces several key requirements that international companies must address through their digital compliance strategies. Organizations must establish comprehensive policies that align with the DPDPR framework."
+    },
+    {
+      "url": "https://iclg.com/practice-areas/technology-sourcing-laws-and-regulations/india",
+      "quote": "Until such enforcement, the applicable legal framework remains the Information Technology Act, 2000 and the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (“SPDI Rules”)."
+    },
+    {
+      "url": "https://www.wrightresearch.in/encyclopedia/chapter-report/chapter-4-regulatory-frameworks-in-indias-it-sector/",
+      "quote": "The regulatory frameworks governing the Indian Information Technology (IT) industry are crucial in shaping its growth and ensuring its alignment with global standards. The Ministry of Electronics and Information Technology (MeitY) has identified public digital platforms as key catalysts for economic transformation..."
+    },
+    {
+      "url": "https://www.indialawoffices.com/legal-articles/technology-licensing-agreement-and-intellectual-property-protection",
+      "quote": "A technology licensing agreement allows authorized use of patented technology by another entity while retaining exclusive ownership. Read on to learn about the prominent components, compliance requirements, and the associated legal specifications in India."
+    },
+    {
+      "url": "https://ksandk.com/information-technology/technology-transfer-regulations-in-india/",
+      "quote": "The Technology Transfer Regulations in India are as follows: – 1. Patent Pooling, in which two or more businesses join and cross licence the relevant technology to prevent others from purchasing it."
+    },
+    {
+      "url": "https://amlwatcher.com/our-coverage/india/",
+      "quote": "Banks and financial institutions are required to furnish certain reports like the Cash Transaction Report (CTR) and the Suspicious Transaction Report (STR) to the Financial Intelligence Unit-India (FIU-IND)."
+    },
+    {
+      "url": "https://clinregs.niaid.nih.gov/country/india",
+      "quote": "As delineated in the 2019-CTRules, ECs also have a continuing responsibility to monitor approved clinical trials and biomedical and health research studies to ensure ethical compliance throughout the study duration."
+    }
+  ]
+}

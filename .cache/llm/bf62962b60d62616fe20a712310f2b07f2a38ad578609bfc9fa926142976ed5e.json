@@ -1,0 +1,87 @@
+{
+  "table": [
+    {
+      "name": "Ctruh",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Seed stage valuation"
+    },
+    {
+      "name": "AltWorld",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Seed stage valuation"
+    },
+    {
+      "name": "CloudWorx",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Seed stage valuation"
+    },
+    {
+      "name": "LOKA",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Seed stage valuation"
+    },
+    {
+      "name": "Trace Network Labs",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Seed stage valuation"
+    },
+    {
+      "name": "Interality",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Seed stage valuation"
+    },
+    {
+      "name": "Zippy Vision",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Seed stage valuation"
+    },
+    {
+      "name": "Plutoverse",
+      "stage": "Pre-seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Pre-seed stage valuation"
+    }
+  ],
+  "positioning_bullets": [
+    "Ctruh operates in a crowded, early-stage Indian metaverse market where most competitors are also at the Seed/Pre-seed stage.",
+    "The target's B2B 'metaverse-as-a-service' model is a common approach, indicating market validation but also intense competition.",
+    "Given the pre-revenue nature of the peer group, competitive differentiation will rely on technology, GTM strategy, and team, not financial metrics.",
+    "Valuations for Ctruh and its peers are driven by market potential, technology, and milestones rather than current revenue multiples."
+  ],
+  "data_quality_notes": [
+    "No financial data (ARR, growth, CAC, LTV, EV) was available for the target or any peers.",
+    "Quantitative ranking by ARR growth or CAC/LTV is not possible due to the complete absence of relevant data.",
+    "EV/ARR multiples are not applicable for these pre-revenue, seed-stage companies; valuation bands are inferred based on stage."
+  ]
+}

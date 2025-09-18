@@ -1,0 +1,89 @@
+{
+  "table": [
+    {
+      "name": "Multipl",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "N/A (Seed)"
+    },
+    {
+      "name": "Tortoise",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "N/A (Seed)"
+    },
+    {
+      "name": "Spenny",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "N/A (Seed)"
+    },
+    {
+      "name": "Jar",
+      "stage": "Series B",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "15-25x (Est.)"
+    },
+    {
+      "name": "Fi Money",
+      "stage": "Series C",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "15-25x (Est.)"
+    },
+    {
+      "name": "Jupiter",
+      "stage": "Series C",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "15-25x (Est.)"
+    },
+    {
+      "name": "INDmoney",
+      "stage": "Series D",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "15-25x (Est.)"
+    },
+    {
+      "name": "Groww",
+      "stage": "Late Stage / Unicorn",
+      "arr": 155000000,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "~19.4x (Actual)"
+    }
+  ],
+  "positioning_bullets": [
+    "Multipl is an early-stage player in the crowded Indian fintech market, differentiating with a 'Save Now, Buy Later' (SNBL) model.",
+    "Its most direct competitor is Tortoise, which shares the SNBL focus, while Jar and Spenny compete for the micro-savings user.",
+    "Larger, well-funded neobanks (Fi, Jupiter) and wealthtech platforms (Groww, INDmoney) compete broadly for the same digitally-savvy user base.",
+    "The path to scale, demonstrated by later-stage peers, involves expanding from a niche service into a comprehensive financial super-app.",
+    "High valuations for Series B+ peers suggest strong market potential, but Multipl must prove its niche can build a large, defensible user base."
+  ],
+  "data_quality_notes": [
+    "Core ranking metrics (ARR Growth, CAC, LTV) are unavailable for all companies, making a quantitative comparison impossible.",
+    "ARR is only available for one late-stage peer (Groww), preventing direct financial performance benchmarking.",
+    "EV/ARR multiples are inferred based on typical venture stage bands for all but one peer due to missing revenue data.",
+    "Data for the target company, Multipl, was not provided and its stage has been inferred based on its direct competitor, Tortoise."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "requirements": [
+    "Compliance with Information Technology Act, 2000 & SPDI Rules",
+    "Adherence to Digital Personal Data Protection (DPDP) Act framework",
+    "Formalities for Intellectual Property (IP) assignment and protection",
+    "Bureau of Indian Standards (BIS) License for IT products",
+    "Licensing for Standard Essential Patents (SEPs) under FRAND terms",
+    "Technology Licensing Agreements for use of patented technology",
+    "Use of digital platforms for regulatory compliance reporting",
+    "Preparation for the upcoming Digital India Act"
+  ],
+  "matched": [],
+  "missing": [
+    "Compliance with Information Technology Act, 2000 & SPDI Rules",
+    "Adherence to Digital Personal Data Protection (DPDP) Act framework",
+    "Formalities for Intellectual Property (IP) assignment and protection",
+    "Bureau of Indian Standards (BIS) License for IT products",
+    "Licensing for Standard Essential Patents (SEPs) under FRAND terms",
+    "Technology Licensing Agreements for use of patented technology",
+    "Use of digital platforms for regulatory compliance reporting",
+    "Preparation for the upcoming Digital India Act"
+  ],
+  "citations": [
+    {
+      "url": "https://iclg.com/practice-areas/technology-sourcing-laws-and-regulations/india",
+      "quote": "Until such enforcement, the applicable legal framework remains the Information Technology Act, 2000 and the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (“SPDI Rules”)."
+    },
+    {
+      "url": "https://www.indiaconnected.co.uk/blog-articles/digital-compliance-india-preparing-international-business-requirements-2026/",
+      "quote": "Organizations must establish comprehensive policies that align with the DPDPR framework. These should outline internal procedures, employee training, and data protection strategies."
+    },
+    {
+      "url": "https://alephindia.in/bis-registration-certification.php",
+      "quote": "As per this scheme, a BIS license is mandatory for electronics and IT products before launching them into the market."
+    },
+    {
+      "url": "https://depenning.com/blog/standard-essential-patents-in-india-a-legal-and-business-guide-for-compliance-licensing/",
+      "quote": "India does not have a specific law governing SEPs, but they are regulated under the general framework of the Indian Patent Act. Issues like FRAND (Fair, Reasonable, and Non-Discriminatory) licensing are adjudicated by Indian courts."
+    },
+    {
+      "url": "https://www.upguard.com/blog/digital-india-act",
+      "quote": "The Digital India Act will fully replace the current Information Technology Act (IT Act) of 2000 by early 2023, which has faced criticisms for its outdated policies and inadequacies in dealing with modern-day technological issues."
+    },
+    {
+      "url": "https://www.indialawoffices.com/legal-articles/technology-licensing-agreement-and-intellectual-property-protection",
+      "quote": "A technology licensing agreement allows authorized use of patented technology by another entity while retaining exclusive ownership."
+    }
+  ]
+}

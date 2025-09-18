@@ -1,0 +1,30 @@
+{
+  "metrics": {
+    "net_burn_mo": null,
+    "runway_months": null,
+    "zero_cash_date": null,
+    "cac_payback_months": 9.4
+  },
+  "assumptions": [
+    "Runway and burn cannot be calculated as cash balance and expense data are not provided.",
+    "CAC payback assumes the ₹1,200 Average Order Value (AOV) is a recurring monthly contribution.",
+    "CAC payback calculation uses the 4% midpoint of the stated 2.5%-5.5% blended revenue margin.",
+    "The fundraising target of ₹12-14 Cr is future capital and not current cash on hand."
+  ],
+  "sensitivities": [
+    {
+      "case": "base",
+      "runway_months": null
+    },
+    {
+      "case": "conservative",
+      "runway_months": null
+    }
+  ],
+  "flags": [
+    "No financial statements (P&L, cash balance) provided, preventing burn and runway analysis.",
+    "Exceptionally high 20x LTV:CAC ratio may rely on aggressive lifetime value assumptions.",
+    "All revenue figures are future projections (FY25, FY27E), not current performance.",
+    "Significant user drop-off from registration (700K+) to KYC verification (200K+)."
+  ]
+}

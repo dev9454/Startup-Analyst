@@ -1,0 +1,29 @@
+{
+  "metrics": {
+    "net_burn_mo": 7222222,
+    "runway_months": 18,
+    "zero_cash_date": "2025-12-31",
+    "cac_payback_months": 2.4
+  },
+  "assumptions": [
+    "Runway and burn are estimated assuming the company raises the midpoint of its target (₹13 Cr) and this provides a standard 18-month runway.",
+    "Starting cash is assumed to be the new funding amount of ₹13 Cr.",
+    "CAC payback is calculated from the 4-year LTV, assuming revenue is earned evenly over 48 months (₹9000 LTV / 48 mo = ₹187.5/mo; ₹450 CAC / ₹187.5 = 2.4 mo).",
+    "No explicit financial statements (cash, revenue, expenses) were provided."
+  ],
+  "sensitivities": [
+    {
+      "case": "base",
+      "runway_months": 18
+    },
+    {
+      "case": "conservative",
+      "runway_months": 12
+    }
+  ],
+  "flags": [
+    "Absence of financial statements makes burn and runway calculations highly speculative and dependent on fundraising assumptions.",
+    "The 4-year LTV projection may be optimistic for an early-stage company.",
+    "The wide blended revenue margin (2.5% - 5.5%) suggests potential variability in revenue streams and profitability."
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "founders": [
+    {
+      "name": "Paddy",
+      "role": "Co-founder",
+      "background": "Repeat entrepreneur"
+    },
+    {
+      "name": "Jags",
+      "role": "Co-founder",
+      "background": "Repeat entrepreneur"
+    }
+  ],
+  "traction": [
+    {
+      "metric": "Assets Under Advisory (AUA)",
+      "value": "₹100 Cr"
+    },
+    {
+      "metric": "Active Consumer Goals (Value)",
+      "value": "₹600 Cr+"
+    },
+    {
+      "metric": "Registered Users",
+      "value": "700K+"
+    },
+    {
+      "metric": "KYC-verified Accounts",
+      "value": "200K+"
+    },
+    {
+      "metric": "Active Goals (Count)",
+      "value": "100K+"
+    },
+    {
+      "metric": "Consumer Value Delivered",
+      "value": "₹30 Cr+"
+    },
+    {
+      "metric": "Goal Completion Rate",
+      "value": "~80%"
+    },
+    {
+      "metric": "Repeat Goal Creation",
+      "value": "~40%"
+    },
+    {
+      "metric": "Fundraising",
+      "value": "Raising ₹12–14 Cr Pre-Series A"
+    },
+    {
+      "metric": "Projected Revenue (FY25)",
+      "value": "INR 1.3 Crores"
+    },
+    {
+      "metric": "Projected Revenue (FY27E)",
+      "value": "INR 100 Crores+"
+    }
+  ],
+  "unit_economics": [
+    {
+      "metric": "CAC",
+      "value": "₹450"
+    },
+    {
+      "metric": "LTV",
+      "value": "₹9,000"
+    },
+    {
+      "metric": "LTV:CAC Ratio",
+      "value": "20x"
+    },
+    {
+      "metric": "Blended Revenue Margins",
+      "value": "2.5% - 5.5%"
+    },
+    {
+      "metric": "Sign-up to Goal Conversion",
+      "value": "~25%"
+    },
+    {
+      "metric": "Average Order Value (AOV)",
+      "value": "₹1,200"
+    }
+  ],
+  "market": [
+    {
+      "name": "Target Audience",
+      "value": "India's 18-35 demographic (Gen Z/Millennials)"
+    },
+    {
+      "name": "Geographic Focus",
+      "value": "Tier 1-3 cities in India"
+    },
+    {
+      "name": "Market Trend",
+      "value": "High adoption of Digital WealthTech and goal-based spending"
+    },
+    {
+      "name": "Competitive Advantage",
+      "value": "3-10x higher margins than traditional wealthtechs (e.g., Groww, Zerodha)"
+    },
+    {
+      "name": "Exit Pathways",
+      "value": "Strategic acquisition by banks/AMCs, global fintechs, or IPO"
+    }
+  ],
+  "product": [
+    {
+      "name": "Core Offering",
+      "value": "Mutual fund investments for spending goals"
+    },
+    {
+      "name": "Revenue Model",
+      "value": "Dual-revenue from investment commissions and brand commissions"
+    },
+    {
+      "name": "Distribution Channels",
+      "value": "Consumer app, embedded brand partnerships, financial ecosystem integrations"
+    },
+    {
+      "name": "Key Partnerships",
+      "value": "Ixigo, Samsung, Myntra, MakeMyTrip, FundsIndia"
+    },
+    {
+      "name": "Value Proposition (Brands)",
+      "value": "20-40% uplift in brand conversions, acts as a new loyalty rail"
+    }
+  ],
+  "legal": [
+    {
+      "type": "Regulatory Compliance",
+      "details": "Operates under UPI, SEBI RIA, AMFI, and Sahamati AA rails"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "risks": [
+    {
+      "code": "TAM_INFLATION",
+      "severity": "medium",
+      "message": "TAM is based on the entire Indian Fintech market ($150B), not a more specific, addressable segment for the product.",
+      "evidence_excerpt": "Top-down analysis using the projected total revenue of the Indian Fintech market... expected to soar to about $150 billion by 2025."
+    },
+    {
+      "code": "BURN_CONCERNS",
+      "severity": "high",
+      "message": "No financial statements were provided, making it impossible to analyze burn rate, runway, or current financial health.",
+      "evidence_excerpt": "No financial statements (P&L, cash balance) provided, preventing burn and runway analysis."
+    },
+    {
+      "code": "COMPLIANCE_GAPS",
+      "severity": "high",
+      "message": "Analysis indicates key regulatory registrations, such as a SEBI Investment Advisory license, may be missing for a wealthtech product.",
+      "evidence_excerpt": "missing: ['...SEBI Registration for securities broking or investment advisory...']"
+    },
+    {
+      "code": "METRIC_INCONSISTENCY",
+      "severity": "medium",
+      "message": "Significant user drop-off (>70%) between registration (700K+) and KYC verification (200K+), indicating a leaky funnel.",
+      "evidence_excerpt": "Significant user drop-off from registration (700K+) to KYC verification (200K+)."
+    },
+    {
+      "code": "NEGATIVE_PR_LITIGATION",
+      "severity": "medium",
+      "message": "A founder is reportedly facing a lawsuit seeking an €8.7 million judgment for alleged failure on loan guarantees.",
+      "evidence_excerpt": "Cabriz Finance Ltd is seeking an €8.7 million judgment against him for alleged failure to pay on guarantees for loans..."
+    }
+  ]
+}

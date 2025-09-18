@@ -1,0 +1,66 @@
+{
+  "kpis": [
+    "Monthly Recurring Revenue (MRR) Growth",
+    "Customer Acquisition Cost (CAC)",
+    "LTV:CAC Ratio",
+    "Churn Rate",
+    "Net Promoter Score (NPS)",
+    "Gross Margin",
+    "Daily Active Users (DAU)",
+    "Customer Retention Rate"
+  ],
+  "baselines": [
+    {
+      "kpi": "MRR Growth",
+      "target": 15.0,
+      "unit": "%",
+      "period": "monthly"
+    },
+    {
+      "kpi": "Customer Acquisition Cost (CAC)",
+      "target": 500.0,
+      "unit": "USD",
+      "period": "monthly"
+    },
+    {
+      "kpi": "LTV:CAC Ratio",
+      "target": 3.0,
+      "unit": null,
+      "period": "quarterly"
+    },
+    {
+      "kpi": "Churn Rate",
+      "target": 2.0,
+      "unit": "%",
+      "period": "monthly"
+    },
+    {
+      "kpi": "Net Promoter Score (NPS)",
+      "target": 50.0,
+      "unit": null,
+      "period": "quarterly"
+    },
+    {
+      "kpi": "Gross Margin",
+      "target": 75.0,
+      "unit": "%",
+      "period": "quarterly"
+    },
+    {
+      "kpi": "Customer Retention Rate",
+      "target": 95.0,
+      "unit": "%",
+      "period": "monthly"
+    }
+  ],
+  "snippets": [
+    "Driving MRR growth through strategic upselling and new market penetration.",
+    "Optimizing CAC by refining digital marketing channels and improving conversion rates.",
+    "Maintaining a healthy LTV:CAC ratio above 3:1 to ensure sustainable growth.",
+    "Reducing monthly churn below 2% with proactive customer success initiatives.",
+    "Boosting user engagement and product stickiness to increase Daily Active Users.",
+    "Achieving a Net Promoter Score of 50+ to reflect strong customer loyalty.",
+    "Sustaining high gross margins through scalable cloud infrastructure.",
+    "Focusing on product innovation to enhance user value and drive long-term retention."
+  ]
+}

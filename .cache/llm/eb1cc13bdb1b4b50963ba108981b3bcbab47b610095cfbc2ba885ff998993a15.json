@@ -1,0 +1,98 @@
+{
+  "founders": [
+    {
+      "name": "Vinay Agastya",
+      "role": "Founder & CEO"
+    },
+    {
+      "name": "Pankaj Jain",
+      "role": "Investor & Mentor"
+    },
+    {
+      "name": "Dharmendra Jain",
+      "role": "Founding Partner & Strategic Advisor"
+    },
+    {
+      "name": "Bopanna P C",
+      "role": "Chief of Staff"
+    }
+  ],
+  "traction": [
+    {
+      "metric": "Team Size",
+      "value": "36"
+    },
+    {
+      "metric": "Active Users",
+      "value": "1600+"
+    },
+    {
+      "metric": "Customers",
+      "value": "30"
+    },
+    {
+      "metric": "Enterprise Clients",
+      "value": "9"
+    },
+    {
+      "metric": "Website Visitors (1 Year)",
+      "value": "59K+"
+    },
+    {
+      "metric": "Total Page Views",
+      "value": "300K"
+    },
+    {
+      "metric": "Awards",
+      "value": "Metaverse Startup of the year 2025, Forbes DGEMS 2024, Linkedin Talent Awards 2023 Finalist"
+    },
+    {
+      "metric": "Incubations",
+      "value": "Microsoft for Startups, Google for Startups, NVIDIA INCEPTION, AWS Startup Programs, IIMB NSRCEL"
+    }
+  ],
+  "unit_economics": [
+    {
+      "metric": "Funding Ask (Seed Round)",
+      "value": "$1.2M"
+    }
+  ],
+  "market": [
+    {
+      "name": "Target Market",
+      "description": "XR (Extended Reality) Commerce, enabling businesses to create lifelike 3D experiences for e-commerce."
+    },
+    {
+      "name": "Positioning",
+      "description": "AI-Powered Unified XR Commerce Studio"
+    }
+  ],
+  "product": [
+    {
+      "name": "Ctruh Platform",
+      "description": "A no-code, in-browser platform to create 3D experiences in minutes. Includes a 3D marketplace, editor, and analytics."
+    },
+    {
+      "name": "Products Launched",
+      "description": "3D Engine 1.0, VersaAI 2.0, Ctruh Platform 1.0, Virtual Storefront Application 2.0"
+    },
+    {
+      "name": "Key Features",
+      "description": "Text-to-3D (Versa AI), Virtual Storefronts, Smart Try-Ons, AI Configurator, Reality Capture AI"
+    }
+  ],
+  "legal": [
+    {
+      "name": "Company Name",
+      "value": "Ctruh Technologies Private Limited"
+    },
+    {
+      "name": "Copyright",
+      "value": "© 2025 Ctruh"
+    },
+    {
+      "name": "Patents & IP",
+      "value": null
+    }
+  ]
+}

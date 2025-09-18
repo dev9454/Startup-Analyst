@@ -1,0 +1,77 @@
+{
+  "checks": [
+    {
+      "claim": "The company operates in a whitespace with no direct competition.",
+      "status": "unknown",
+      "rationale": "The provided evidence discusses the general business concept of \"whitespace\" but contains no specific information about the company in question or its competitive landscape.",
+      "evidence": [
+        {
+          "url": "https://www.janek.com/blog/white-space-analysis-a-complete-guide/",
+          "quote": "A white space isn’t just a place where your competitors are absent. In fact, in most cases, there will be several competitors present."
+        },
+        {
+          "url": "https://www.demandfarm.com/blog/white-space-opportunities/",
+          "quote": "Some think of white space as an open playing field, with no competition. A few look at it as an untapped market. But the general consensus is that white space refers to the gap between what your"
+        },
+        {
+          "url": "https://www.forbes.com/sites/chrismyers/2016/03/01/competition/",
+          "quote": "The second reason why your business might not have any competition is that you’re simply ahead of the market. Of all the reasons, this is by far the least problematic."
+        }
+      ]
+    },
+    {
+      "claim": "Projected revenue is expected to reach ₹1,006 Cr by 2028.",
+      "status": "unknown",
+      "rationale": "The provided evidence does not contain any information regarding the company's revenue projections or financial data.",
+      "evidence": []
+    },
+    {
+      "claim": "Customer Acquisition Cost (CAC) is not specified.",
+      "status": "supported",
+      "rationale": "The provided evidence consists of general articles about business strategy and does not contain any specific financial metrics like Customer Acquisition Cost (CAC) for the company in question.",
+      "evidence": []
+    },
+    {
+      "claim": "Approximately 40% of users who achieve a goal become repeat goal-setters, indicating high LTV.",
+      "status": "unknown",
+      "rationale": "The provided evidence does not contain any data on user behavior, goal achievement, or repeat usage metrics for the company.",
+      "evidence": []
+    },
+    {
+      "claim": "The 12-month user retention rate is 75%.",
+      "status": "unknown",
+      "rationale": "The provided evidence lacks any specific data or mention of the company's user retention rates.",
+      "evidence": []
+    },
+    {
+      "claim": "The company's blended margin is approximately 5-5.5%.",
+      "status": "unknown",
+      "rationale": "The provided evidence does not contain any financial details, such as blended margins, for the company in question.",
+      "evidence": []
+    },
+    {
+      "claim": "Current live Assets Under Advisement (AUA) are ₹100 Cr.",
+      "status": "unknown",
+      "rationale": "The provided evidence does not include any information about the company's Assets Under Advisement (AUA) or other financial metrics.",
+      "evidence": []
+    },
+    {
+      "claim": "The company has a projected path to profitability within 18-20 months.",
+      "status": "unknown",
+      "rationale": "The provided evidence contains no information regarding the company's financial projections or its timeline to achieve profitability.",
+      "evidence": []
+    },
+    {
+      "claim": "Founder background information is not provided in the document.",
+      "status": "supported",
+      "rationale": "The provided evidence consists of general business articles and does not contain any biographical information about the company's founders.",
+      "evidence": []
+    },
+    {
+      "claim": "The platform has over 700,000 users, with more than 200,000 being KYC-verified.",
+      "status": "unknown",
+      "rationale": "The provided evidence does not contain any data on the platform's user base, total users, or the number of KYC-verified users.",
+      "evidence": []
+    }
+  ]
+}

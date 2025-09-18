@@ -1,0 +1,91 @@
+{
+  "founders": [
+    {
+      "name": "Vinay Agastya",
+      "timeline": [
+        {
+          "role": "Founder & CEO",
+          "org": "Ctruh",
+          "start": "2023-01",
+          "end": null
+        },
+        {
+          "role": "Career Break",
+          "org": "Personal Travel",
+          "start": "2022-11",
+          "end": "2022-12"
+        },
+        {
+          "role": "Associate Director, Partner Channels",
+          "org": "Unacademy",
+          "start": "2021-12",
+          "end": "2022-10"
+        },
+        {
+          "role": "AGM - Customer Success",
+          "org": "Exotel Techcom Private Limited",
+          "start": "2019-05",
+          "end": "2021-12"
+        },
+        {
+          "role": "Manager - Customer Success (Enterprise Business)",
+          "org": "Exotel Techcom Private Limited",
+          "start": "2018-07",
+          "end": "2019-04"
+        },
+        {
+          "role": "Head of Sales and Marketing",
+          "org": "Scapic",
+          "start": "2018-02",
+          "end": "2018-07"
+        },
+        {
+          "role": "Marketing Consultant",
+          "org": "Flikster",
+          "start": "2017-09",
+          "end": "2018-01"
+        },
+        {
+          "role": "Fellow",
+          "org": "Startup Leadership Program",
+          "start": "2016-09",
+          "end": "2017-06"
+        },
+        {
+          "role": "Head of Client Partnerships",
+          "org": "Genie Bazaar",
+          "start": "2016-06",
+          "end": "2017-06"
+        },
+        {
+          "role": "Head of the Expansion Team",
+          "org": "www.foodmingo.com",
+          "start": "2015-03",
+          "end": "2016-06"
+        },
+        {
+          "role": "Research Assistant",
+          "org": "MIT Media Lab",
+          "start": "2014-04",
+          "end": "2014-09"
+        }
+      ],
+      "gaps": [],
+      "signals": {
+        "positive": [
+          "Founder of a company in emerging tech (XR/Metaverse)",
+          "9+ years experience in product management, GTM, and growth hacking",
+          "Multiple leadership roles at various startups",
+          "Experience at established tech companies like Unacademy and Exotel",
+          "Educational background includes MIT and INSEAD",
+          "Described as a 'visionary' and 'innovator'"
+        ],
+        "concerns": [
+          "Several short employment stints (e.g., Scapic, Flikster)",
+          "Public controversy over a social media post about an intern's salary expectations"
+        ]
+      },
+      "litigation": []
+    }
+  ]
+}

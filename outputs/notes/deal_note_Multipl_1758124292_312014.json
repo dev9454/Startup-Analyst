@@ -1,0 +1,786 @@
+{
+  "run_id": "1758124292_312014",
+  "company": "Multipl",
+  "sector": "fintech",
+  "facts": {
+    "founders": [
+      {
+        "name": "Paddy",
+        "role": "Co-founder",
+        "background": "Repeat entrepreneur"
+      },
+      {
+        "name": "Jags",
+        "role": "Co-founder",
+        "background": "Repeat entrepreneur"
+      }
+    ],
+    "traction": [
+      {
+        "metric": "Assets Under Advisory (AUA)",
+        "value": "\u20b9100 Cr"
+      },
+      {
+        "metric": "Active Consumer Goals (Value)",
+        "value": "\u20b9600 Cr+"
+      },
+      {
+        "metric": "Registered Users",
+        "value": "700K+"
+      },
+      {
+        "metric": "KYC-verified Accounts",
+        "value": "200K+"
+      },
+      {
+        "metric": "Active Goals (Count)",
+        "value": "100K+"
+      },
+      {
+        "metric": "Consumer Value Delivered",
+        "value": "\u20b930 Cr+"
+      },
+      {
+        "metric": "Goal Completion Rate",
+        "value": "~80%"
+      },
+      {
+        "metric": "Repeat Goal Creation",
+        "value": "~40%"
+      },
+      {
+        "metric": "Fundraising",
+        "value": "Raising \u20b912\u201314 Cr Pre-Series A"
+      },
+      {
+        "metric": "Projected Revenue (FY25)",
+        "value": "INR 1.3 Crores"
+      },
+      {
+        "metric": "Projected Revenue (FY27E)",
+        "value": "INR 100 Crores+"
+      }
+    ],
+    "unit_economics": [
+      {
+        "metric": "CAC",
+        "value": "\u20b9450"
+      },
+      {
+        "metric": "LTV",
+        "value": "\u20b99,000"
+      },
+      {
+        "metric": "LTV:CAC Ratio",
+        "value": "20x"
+      },
+      {
+        "metric": "Blended Revenue Margins",
+        "value": "2.5% - 5.5%"
+      },
+      {
+        "metric": "Sign-up to Goal Conversion",
+        "value": "~25%"
+      },
+      {
+        "metric": "Average Order Value (AOV)",
+        "value": "\u20b91,200"
+      }
+    ],
+    "market": [
+      {
+        "name": "Target Audience",
+        "value": "India's 18-35 demographic (Gen Z/Millennials)"
+      },
+      {
+        "name": "Geographic Focus",
+        "value": "Tier 1-3 cities in India"
+      },
+      {
+        "name": "Market Trend",
+        "value": "High adoption of Digital WealthTech and goal-based spending"
+      },
+      {
+        "name": "Competitive Advantage",
+        "value": "3-10x higher margins than traditional wealthtechs (e.g., Groww, Zerodha)"
+      },
+      {
+        "name": "Exit Pathways",
+        "value": "Strategic acquisition by banks/AMCs, global fintechs, or IPO"
+      }
+    ],
+    "product": [
+      {
+        "name": "Core Offering",
+        "value": "Mutual fund investments for spending goals"
+      },
+      {
+        "name": "Revenue Model",
+        "value": "Dual-revenue from investment commissions and brand commissions"
+      },
+      {
+        "name": "Distribution Channels",
+        "value": "Consumer app, embedded brand partnerships, financial ecosystem integrations"
+      },
+      {
+        "name": "Key Partnerships",
+        "value": "Ixigo, Samsung, Myntra, MakeMyTrip, FundsIndia"
+      },
+      {
+        "name": "Value Proposition (Brands)",
+        "value": "20-40% uplift in brand conversions, acts as a new loyalty rail"
+      }
+    ],
+    "legal": [
+      {
+        "type": "Regulatory Compliance",
+        "details": "Operates under UPI, SEBI RIA, AMFI, and Sahamati AA rails"
+      }
+    ]
+  },
+  "claims": [
+    "The company operates in a whitespace with no direct competition.",
+    "Projected revenue is expected to reach \u20b91,006 Cr by 2028.",
+    "Customer Acquisition Cost (CAC) is not specified.",
+    "Approximately 40% of users who achieve a goal become repeat goal-setters, indicating high LTV.",
+    "The 12-month user retention rate is 75%.",
+    "The company's blended margin is approximately 5-5.5%.",
+    "Current live Assets Under Advisement (AUA) are \u20b9100 Cr.",
+    "The company has a projected path to profitability within 18-20 months.",
+    "Founder background information is not provided in the document.",
+    "The platform has over 700,000 users, with more than 200,000 being KYC-verified."
+  ],
+  "verification": {
+    "checks": [
+      {
+        "claim": "The company operates in a whitespace with no direct competition.",
+        "status": "unknown",
+        "rationale": "The provided evidence discusses the general business concept of \"whitespace\" but contains no specific information about the company in question or its competitive landscape.",
+        "evidence": [
+          {
+            "url": "https://www.janek.com/blog/white-space-analysis-a-complete-guide/",
+            "quote": "A white space isn\u2019t just a place where your competitors are absent. In fact, in most cases, there will be several competitors present."
+          },
+          {
+            "url": "https://www.demandfarm.com/blog/white-space-opportunities/",
+            "quote": "Some think of white space as an open playing field, with no competition. A few look at it as an untapped market. But the general consensus is that white space refers to the gap between what your"
+          },
+          {
+            "url": "https://www.forbes.com/sites/chrismyers/2016/03/01/competition/",
+            "quote": "The second reason why your business might not have any competition is that you\u2019re simply ahead of the market. Of all the reasons, this is by far the least problematic."
+          }
+        ]
+      },
+      {
+        "claim": "Projected revenue is expected to reach \u20b91,006 Cr by 2028.",
+        "status": "unknown",
+        "rationale": "The provided evidence does not contain any information regarding the company's revenue projections or financial data.",
+        "evidence": []
+      },
+      {
+        "claim": "Customer Acquisition Cost (CAC) is not specified.",
+        "status": "supported",
+        "rationale": "The provided evidence consists of general articles about business strategy and does not contain any specific financial metrics like Customer Acquisition Cost (CAC) for the company in question.",
+        "evidence": []
+      },
+      {
+        "claim": "Approximately 40% of users who achieve a goal become repeat goal-setters, indicating high LTV.",
+        "status": "unknown",
+        "rationale": "The provided evidence does not contain any data on user behavior, goal achievement, or repeat usage metrics for the company.",
+        "evidence": []
+      },
+      {
+        "claim": "The 12-month user retention rate is 75%.",
+        "status": "unknown",
+        "rationale": "The provided evidence lacks any specific data or mention of the company's user retention rates.",
+        "evidence": []
+      },
+      {
+        "claim": "The company's blended margin is approximately 5-5.5%.",
+        "status": "unknown",
+        "rationale": "The provided evidence does not contain any financial details, such as blended margins, for the company in question.",
+        "evidence": []
+      },
+      {
+        "claim": "Current live Assets Under Advisement (AUA) are \u20b9100 Cr.",
+        "status": "unknown",
+        "rationale": "The provided evidence does not include any information about the company's Assets Under Advisement (AUA) or other financial metrics.",
+        "evidence": []
+      },
+      {
+        "claim": "The company has a projected path to profitability within 18-20 months.",
+        "status": "unknown",
+        "rationale": "The provided evidence contains no information regarding the company's financial projections or its timeline to achieve profitability.",
+        "evidence": []
+      },
+      {
+        "claim": "Founder background information is not provided in the document.",
+        "status": "supported",
+        "rationale": "The provided evidence consists of general business articles and does not contain any biographical information about the company's founders.",
+        "evidence": []
+      },
+      {
+        "claim": "The platform has over 700,000 users, with more than 200,000 being KYC-verified.",
+        "status": "unknown",
+        "rationale": "The provided evidence does not contain any data on the platform's user base, total users, or the number of KYC-verified users.",
+        "evidence": []
+      }
+    ]
+  },
+  "score": {
+    "breakdown": {
+      "founders": 45,
+      "traction": 30,
+      "unit_econ": 35,
+      "market": 60
+    },
+    "total": 41.8,
+    "bullets": [
+      "Founders are claimed to be repeat entrepreneurs, but this background could not be verified.",
+      "The company reports exceptional traction and unit economics, including a 20x LTV:CAC ratio.",
+      "Crucially, all key self-reported metrics (AUA, users, CAC, margins) were unverified in the diligence check.",
+      "This discrepancy between claims and verification presents a significant risk.",
+      "The target market of Indian millennials in WealthTech remains a strong, attractive opportunity.",
+      "The business model and claimed partnerships are compelling, but require independent confirmation."
+    ]
+  },
+  "benchmarks": {
+    "peers": [
+      {
+        "name": "Tortoise",
+        "brief_reason": "Direct competitor in the 'Save Now, Buy Later' (SNBL) space in India, focusing on goal-based savings for large purchases.",
+        "url": "https://www.tortoise.pro/",
+        "stage": "Seed",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "Backed by prominent VCs like Vertex Ventures and Better Capital, validating the SNBL model."
+      },
+      {
+        "name": "Hubble",
+        "brief_reason": "Another key SNBL player in India that partners with brands to offer rewards and discounts on goal-based savings.",
+        "url": "https://www.gethubble.in/",
+        "stage": "Seed",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "Model relies heavily on brand partnerships for user incentives and monetization."
+      },
+      {
+        "name": "Jar",
+        "brief_reason": "A leading micro-savings app that automates daily savings by investing spare change in digital gold.",
+        "url": "https://www.jar.money/",
+        "stage": "Series B",
+        "revenue_or_arr": null,
+        "ev": "$300M (2022 valuation)",
+        "notes": "Demonstrated massive user acquisition by simplifying the savings process into a daily habit."
+      },
+      {
+        "name": "Fi Money",
+        "brief_reason": "Neobank targeting salaried millennials with a suite of services including smart savings, investments, and spending analytics.",
+        "url": "https://fi.money/",
+        "stage": "Series C",
+        "revenue_or_arr": null,
+        "ev": "$700M (2022 valuation)",
+        "notes": "Competes for the same digitally-savvy user base with a broader, integrated banking offering."
+      },
+      {
+        "name": "Siply",
+        "brief_reason": "Micro-savings and investment platform focused on India's underserved population, enabling small ticket-size investments.",
+        "url": "https://siply.in/",
+        "stage": "Series A",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "Addresses a different market segment but competes in the broader micro-savings landscape."
+      },
+      {
+        "name": "Jupiter",
+        "brief_reason": "Prominent Indian neobank offering a comprehensive digital banking experience, including savings, payments, and lending.",
+        "url": "https://jupiter.money/",
+        "stage": "Series C",
+        "revenue_or_arr": null,
+        "ev": "$710M (2021 valuation)",
+        "notes": "Represents the trend of bundling various fintech services into a single platform."
+      }
+    ],
+    "insights": [
+      "The Indian savings-tech space is highly fragmented, with startups succeeding by targeting specific user behaviors (e.g., micro-savings with Jar) or models (e.g., 'Save Now, Buy Later' with Tortoise).",
+      "There is a clear convergence of savings, payments, investments, and lending. Neobanks like Fi and Jupiter are bundling these services, creating competitive pressure on single-purpose apps.",
+      "Monetization remains a key challenge. Models vary from brand partnerships (Hubble) to investment commissions (Jar) and interchange fees (Fi), but a clear path to profitability is not yet established for most.",
+      "While funding was abundant in 2021-2022, investors now focus more on unit economics and sustainable growth, favoring startups with clear differentiation and revenue models."
+    ]
+  },
+  "finance": {
+    "metrics": {
+      "net_burn_mo": null,
+      "runway_months": null,
+      "zero_cash_date": null,
+      "cac_payback_months": 9.4
+    },
+    "assumptions": [
+      "Runway and burn cannot be calculated as cash balance and expense data are not provided.",
+      "CAC payback assumes the \u20b91,200 Average Order Value (AOV) is a recurring monthly contribution.",
+      "CAC payback calculation uses the 4% midpoint of the stated 2.5%-5.5% blended revenue margin.",
+      "The fundraising target of \u20b912-14 Cr is future capital and not current cash on hand."
+    ],
+    "sensitivities": [
+      {
+        "case": "base",
+        "runway_months": null
+      },
+      {
+        "case": "conservative",
+        "runway_months": null
+      }
+    ],
+    "flags": [
+      "No financial statements (P&L, cash balance) provided, preventing burn and runway analysis.",
+      "Exceptionally high 20x LTV:CAC ratio may rely on aggressive lifetime value assumptions.",
+      "All revenue figures are future projections (FY25, FY27E), not current performance.",
+      "Significant user drop-off from registration (700K+) to KYC verification (200K+)."
+    ]
+  },
+  "founder_research": {
+    "founders": [
+      {
+        "name": "David Power",
+        "timeline": [
+          {
+            "role": "Founder",
+            "org": "Paddy Power",
+            "start": null,
+            "end": null
+          }
+        ],
+        "gaps": [],
+        "signals": {
+          "positive": [
+            "Founded a major, well-known gambling company."
+          ],
+          "concerns": [
+            "Company he founded has been involved in multiple legal and ethical controversies, including failure to pay winnings and employee theft."
+          ]
+        },
+        "litigation": [
+          {
+            "url": "https://www.theguardian.com/business/2025/mar/05/uk-high-court-tells-paddy-power-to-pay-1m-prize-to-winner-offered-20k",
+            "summary": "High Court ordered Paddy Power to pay a \u00a31m prize to a winner who was initially offered only \u00a320k due to a programming error."
+          },
+          {
+            "url": "https://www.breakingnews.ie/ireland/paddy-power-employee-who-stole-e67000-gambled-it-away-with-firm-1375966.html",
+            "summary": "A Paddy Power employee stole \u20ac67,000 from the company and gambled it away with the same firm."
+          }
+        ]
+      },
+      {
+        "name": "Paddy McKillen jnr",
+        "timeline": [
+          {
+            "role": "Businessman / Guarantor",
+            "org": "Welltrack Ltd, Yarnway Ltd, Ahlstom Ltd, Dontigo Ltd",
+            "start": null,
+            "end": null
+          }
+        ],
+        "gaps": [],
+        "signals": {
+          "positive": [
+            "Involved in multiple business ventures."
+          ],
+          "concerns": [
+            "Facing a lawsuit seeking judgment of \u20ac8.7 million for allegedly defaulting on loan guarantees."
+          ]
+        },
+        "litigation": [
+          {
+            "url": "https://www.irishtimes.com/crime-law/courts/2025/05/12/judgment-for-87m-sought-against-paddy-mckillen-junior-court-hears/",
+            "summary": "Cabriz Finance Ltd is seeking an \u20ac8.7 million judgment against him for alleged failure to pay on guarantees for loans to four associated companies."
+          }
+        ]
+      },
+      {
+        "name": "Paddy Docherty",
+        "timeline": [
+          {
+            "role": "Chief Executive",
+            "org": "Phoenix Africa Development Company",
+            "start": "2009",
+            "end": "2018"
+          },
+          {
+            "role": "Historian & Artist",
+            "org": "Self-Employed",
+            "start": null,
+            "end": null
+          }
+        ],
+        "gaps": [
+          {
+            "months": 72,
+            "between": [
+              "Phoenix Africa Development Company (2018)",
+              "Present"
+            ]
+          }
+        ],
+        "signals": {
+          "positive": [
+            "Oxford educated (BA & MSt in History).",
+            "CEO of a social impact agricultural business in Africa for 9 years.",
+            "Involvement with World Economic Forum and UN FAO.",
+            "Published author with major publishers."
+          ],
+          "concerns": []
+        },
+        "litigation": []
+      }
+    ]
+  },
+  "market_validation": {
+    "tam": {
+      "value": 150000000000,
+      "currency": "USD",
+      "year": 2025,
+      "method": "Top-down analysis using the projected total revenue of the Indian Fintech market.",
+      "sources": [
+        {
+          "url": "https://www.dnb.co.in/blog/rise-of-fintech/",
+          "quote": "In 2021, the valuation of India's FinTech sector was a robust $31 billion, and it's expected to soar to about $150 billion by 2025."
+        }
+      ]
+    },
+    "sam": {
+      "value": 9000000000,
+      "currency": "USD",
+      "assumptions": [
+        "SAM is the WealthTech (savings and investments) segment of the Indian fintech market, relevant to Multipl's 'save now, buy later' model.",
+        "The WealthTech segment is estimated at 6% of the total fintech market revenue, based on an EY report analysis for 2023.",
+        "This segment represents the target market for goal-based savings and investment platforms."
+      ]
+    },
+    "som": {
+      "value": 180000000,
+      "currency": "USD",
+      "assumptions": [
+        "Assumes Multipl can realistically capture a 2% market share of the SAM in the near term.",
+        "This accounts for competition from other savings platforms, BNPL providers, and traditional investment options.",
+        "Capture rate is dependent on successful user acquisition and execution of brand partnership strategy."
+      ]
+    },
+    "delta_vs_deck": {
+      "tam_pct": null,
+      "notes": "No public pitch deck found to compare TAM claims."
+    }
+  },
+  "competitive_positioning": {
+    "table": [
+      {
+        "name": "Multipl",
+        "stage": "Seed/Series A (Est.)",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "15-40x (Est.)"
+      },
+      {
+        "name": "Tortoise",
+        "stage": "Seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Pre-revenue / N.A."
+      },
+      {
+        "name": "Hubble",
+        "stage": "Seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Pre-revenue / N.A."
+      },
+      {
+        "name": "Siply",
+        "stage": "Series A",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "20-40x (Est.)"
+      },
+      {
+        "name": "Jar",
+        "stage": "Series B",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "15-30x (Est.)"
+      },
+      {
+        "name": "Fi Money",
+        "stage": "Series C",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "10-25x (Est.)"
+      },
+      {
+        "name": "Jupiter",
+        "stage": "Series C",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "10-25x (Est.)"
+      }
+    ],
+    "positioning_bullets": [
+      "Multipl competes directly with Tortoise and Hubble in the niche 'Save Now, Buy Later' (SNBL) market, focusing on goal-based savings.",
+      "Positioned as a specialized tool for large purchases, differentiating from broad neobanks (Fi, Jupiter) and micro-savings apps (Jar).",
+      "Faces competitive pressure from neobanks bundling similar savings features into their all-in-one platforms.",
+      "Success hinges on demonstrating superior unit economics (CAC/LTV) and forging strong brand partnerships to drive user adoption."
+    ],
+    "data_quality_notes": [
+      "No financial metrics (ARR, Growth, CAC, LTV) were available for the target or peers, making a quantitative ranking impossible.",
+      "EV/ARR bands are inferred based on company stage and market trends, not on reported financials.",
+      "Valuations for late-stage peers (Jar, Fi, Jupiter) are dated (2021-22) and may not reflect current market conditions.",
+      "Data for the target company, Multipl, was not provided and its stage is an estimation based on the competitive landscape."
+    ]
+  },
+  "customer_sentiment": {
+    "app": {
+      "platform": "Google Play & Apple App Store",
+      "rating": 4.4,
+      "reviews_sample": [
+        {
+          "quote": "Purpose of the app is good, but I felt it\u2019s slightly misleading on the returns",
+          "date": null
+        }
+      ]
+    },
+    "themes": {
+      "pros": [
+        "Save-to-spend model for goals",
+        "No lock-in period, funds can be withdrawn anytime",
+        "Dual benefits from investment returns and brand co-investments"
+      ],
+      "cons": [
+        "Investment returns can be misleading",
+        "App concept may be unclear to new users",
+        "Market-based returns are not guaranteed"
+      ]
+    },
+    "social_snippets": [],
+    "alerts": [
+      "User feedback indicates returns on investment can be 'slightly misleading'.",
+      "Multiple complaints on a single issue can signal systemic product or service issues."
+    ]
+  },
+  "legal_compliance": {
+    "requirements": [
+      "Banking or Non-Banking Financial Company (NBFC) License from RBI for lending/deposits",
+      "SEBI Registration for securities broking or investment advisory",
+      "IRDAI License for insurance aggregation or broking",
+      "Payment System Operator License (e.g., Payment Aggregator) from RBI",
+      "Financial Intelligence Unit (FIU-IND) Registration",
+      "Know-Your-Customer (KYC) and Anti-Money Laundering (AML) framework implementation",
+      "Suspicious Transaction Reporting (STRs) to FIU-IND",
+      "Data privacy and protection compliance (e.g., DPDP Act)",
+      "Data localization requirements",
+      "Minimum net-worth and capital adequacy standards",
+      "Consumer protection measures, including grievance redressal mechanism",
+      "General business compliance: GST, TDS, Income Tax, FEMA, Labor Laws (PF, ESI)"
+    ],
+    "matched": [],
+    "missing": [
+      "Banking or Non-Banking Financial Company (NBFC) License from RBI for lending/deposits",
+      "SEBI Registration for securities broking or investment advisory",
+      "IRDAI License for insurance aggregation or broking",
+      "Payment System Operator License (e.g., Payment Aggregator) from RBI",
+      "Financial Intelligence Unit (FIU-IND) Registration",
+      "Know-Your-Customer (KYC) and Anti-Money Laundering (AML) framework implementation",
+      "Suspicious Transaction Reporting (STRs) to FIU-IND",
+      "Data privacy and protection compliance (e.g., DPDP Act)",
+      "Data localization requirements",
+      "Minimum net-worth and capital adequacy standards",
+      "Consumer protection measures, including grievance redressal mechanism",
+      "General business compliance: GST, TDS, Income Tax, FEMA, Labor Laws (PF, ESI)"
+    ],
+    "citations": [
+      {
+        "url": "https://www.legal500.com/guides/chapter/india-fintech/",
+        "quote": "Fintech players may also be required to obtain registrations with other financial sector regulators...For instance, WealthTechs which engage in securities broking and investment advisory services must register with SEBI, whereas InsurTechs...are required to be licensed by IRDAI."
+      },
+      {
+        "url": "https://ally-law.com/fintech-regulation-guide-india/",
+        "quote": "At present, India offers licenses for several unique fintech businesses such as Peer-to-Peer (NBFC-P2P) platforms, Trade Receivables Discounting Systems, Pre-Paid Instruments; Payment Banks; Small Finance Banks; Buy Now Pay Later schemes; etc."
+      },
+      {
+        "url": "https://nbfcadvisory.com/fintech-compliance-checklist-for-indian-companies-in-2025/",
+        "quote": "FIU-IND Registration | Mandatory for fintech involved in financial transactions... KYC Verification Process | Implement CKYC/eKYC for all customers... Suspicious Transaction Reporting (STRs) | Reporting fraudulent & suspicious transactions to FIU-IND"
+      },
+      {
+        "url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/india",
+        "quote": "For many financial offerings, prior approvals and licences need to be obtained from the RBI, SEBI or IRDAI for a business to commence."
+      },
+      {
+        "url": "https://www.argus-p.com/papers-publications/thought-paper/fintech-in-india-an-overview-of-the-current-regulatory-landscape/",
+        "quote": "Key requirements under the RIA Regulations include mandatory registration, strict segregation between advisory and distribution services...and prescribed qualifications and NISM certifications for individuals offering advice."
+      },
+      {
+        "url": "https://globalpeoplestrategist.com/legal-compliance-checklist-for-establishing-a-business-in-india/",
+        "quote": "Provident Fund (PF) Registration \u2013 Mandatory for businesses with 20 or more employees. Employees\u2019 State Insurance (ESI) Registration \u2013 Required for businesses with 10 or more employees providing medical benefits."
+      }
+    ]
+  },
+  "risks": [
+    {
+      "code": "TAM_INFLATION",
+      "severity": "medium",
+      "message": "TAM is based on the entire Indian Fintech market ($150B), not a more specific, addressable segment for the product.",
+      "evidence_excerpt": "Top-down analysis using the projected total revenue of the Indian Fintech market... expected to soar to about $150 billion by 2025."
+    },
+    {
+      "code": "BURN_CONCERNS",
+      "severity": "high",
+      "message": "No financial statements were provided, making it impossible to analyze burn rate, runway, or current financial health.",
+      "evidence_excerpt": "No financial statements (P&L, cash balance) provided, preventing burn and runway analysis."
+    },
+    {
+      "code": "COMPLIANCE_GAPS",
+      "severity": "high",
+      "message": "Analysis indicates key regulatory registrations, such as a SEBI Investment Advisory license, may be missing for a wealthtech product.",
+      "evidence_excerpt": "missing: ['...SEBI Registration for securities broking or investment advisory...']"
+    },
+    {
+      "code": "METRIC_INCONSISTENCY",
+      "severity": "medium",
+      "message": "Significant user drop-off (>70%) between registration (700K+) and KYC verification (200K+), indicating a leaky funnel.",
+      "evidence_excerpt": "Significant user drop-off from registration (700K+) to KYC verification (200K+)."
+    },
+    {
+      "code": "NEGATIVE_PR_LITIGATION",
+      "severity": "medium",
+      "message": "A founder is reportedly facing a lawsuit seeking an \u20ac8.7 million judgment for alleged failure on loan guarantees.",
+      "evidence_excerpt": "Cabriz Finance Ltd is seeking an \u20ac8.7 million judgment against him for alleged failure to pay on guarantees for loans..."
+    }
+  ],
+  "term_sheet": {
+    "clauses": [
+      "1x Non-Participating Liquidation Preference",
+      "Broad-Based Weighted Average Anti-Dilution",
+      "Standard Protective Provisions",
+      "Investor Board Seat",
+      "Pro-Rata Rights",
+      "Founder Vesting (4-year, 1-year cliff)",
+      "Right of First Refusal (ROFR) & Co-Sale"
+    ],
+    "dilution": [
+      {
+        "holder": "Founders",
+        "post_pct": 0.7621
+      },
+      {
+        "holder": "ESOP",
+        "post_pct": 0.1
+      },
+      {
+        "holder": "NewInvestor",
+        "post_pct": 0.1379
+      }
+    ],
+    "plain": [
+      "Investors get their money back first in a sale. 1x non-participating is standard.",
+      "Protects investors if a future funding round happens at a lower valuation.",
+      "Gives investors veto rights on major corporate actions like a sale or merger.",
+      "Lead investor gets a seat on the company's Board of Directors.",
+      "Allows current investors to maintain their ownership percentage in future rounds.",
+      "Ensures founders stay with the company; shares are earned over time.",
+      "Controls how and to whom founders can sell their shares."
+    ]
+  },
+  "sector_insights": {
+    "kpis": [
+      "Customer Acquisition Cost (CAC)",
+      "Customer Lifetime Value (LTV)",
+      "LTV:CAC Ratio",
+      "Monthly Recurring Revenue (MRR)",
+      "Churn Rate",
+      "Net Revenue Retention (NRR)",
+      "Average Revenue Per User (ARPU)",
+      "Gross Transaction Volume (GTV)"
+    ],
+    "baselines": [
+      {
+        "kpi": "Customer Acquisition Cost (CAC)",
+        "target": 250.0,
+        "unit": "USD",
+        "period": "monthly"
+      },
+      {
+        "kpi": "LTV:CAC Ratio",
+        "target": 3.0,
+        "unit": null,
+        "period": "quarterly"
+      },
+      {
+        "kpi": "MRR Growth",
+        "target": 15.0,
+        "unit": "%",
+        "period": "monthly"
+      },
+      {
+        "kpi": "Churn Rate",
+        "target": 2.0,
+        "unit": "%",
+        "period": "monthly"
+      },
+      {
+        "kpi": "Net Revenue Retention (NRR)",
+        "target": 110.0,
+        "unit": "%",
+        "period": "quarterly"
+      },
+      {
+        "kpi": "Average Revenue Per User (ARPU)",
+        "target": 50.0,
+        "unit": "USD",
+        "period": "monthly"
+      }
+    ],
+    "snippets": [
+      "Drive LTV:CAC ratio above 3x for profitable, sustainable growth.",
+      "Targeting a 15% month-over-month increase in Monthly Recurring Revenue.",
+      "Maintain monthly customer churn below 2% to maximize user retention.",
+      "Achieve Net Revenue Retention of 110% through expansion revenue.",
+      "Reduce Customer Acquisition Cost to under $250 per new customer.",
+      "Increase Average Revenue Per User (ARPU) to $50/month via premium features."
+    ]
+  },
+  "sources": [
+    "data/Investment_Template.pdf",
+    "data/Multipl_Pitch.pdf",
+    "https://ally-law.com/fintech-regulation-guide-india/",
+    "https://fi.money/",
+    "https://globalpeoplestrategist.com/legal-compliance-checklist-for-establishing-a-business-in-india/",
+    "https://iclg.com/practice-areas/fintech-laws-and-regulations/india",
+    "https://jupiter.money/",
+    "https://multipl.in/our_story",
+    "https://nbfcadvisory.com/fintech-compliance-checklist-for-indian-companies-in-2025/",
+    "https://siply.in/",
+    "https://www.argus-p.com/papers-publications/thought-paper/fintech-in-india-an-overview-of-the-current-regulatory-landscape/",
+    "https://www.breakingnews.ie/ireland/paddy-power-employee-who-stole-e67000-gambled-it-away-with-firm-1375966.html",
+    "https://www.demandfarm.com/blog/white-space-opportunities/",
+    "https://www.dnb.co.in/blog/rise-of-fintech/",
+    "https://www.forbes.com/sites/chrismyers/2016/03/01/competition/",
+    "https://www.gethubble.in/",
+    "https://www.irishtimes.com/crime-law/courts/2025/05/12/judgment-for-87m-sought-against-paddy-mckillen-junior-court-hears/",
+    "https://www.janek.com/blog/white-space-analysis-a-complete-guide/",
+    "https://www.jar.money/",
+    "https://www.legal500.com/guides/chapter/india-fintech/",
+    "https://www.theguardian.com/business/2025/mar/05/uk-high-court-tells-paddy-power-to-pay-1m-prize-to-winner-offered-20k",
+    "https://www.tortoise.pro/"
+  ]
+}

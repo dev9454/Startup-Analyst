@@ -1,0 +1,30 @@
+{
+  "metrics": {
+    "net_burn_mo": null,
+    "runway_months": null,
+    "zero_cash_date": null,
+    "cac_payback_months": null
+  },
+  "assumptions": [
+    "No financial data (revenue, expenses, cash balance) was provided.",
+    "Company is assumed to be pre-revenue and pre-launch, based on 'Waitlist' status.",
+    "The $1.2M funding ask is a future target, not current cash on hand.",
+    "Calculations are not possible due to the absence of financial information."
+  ],
+  "sensitivities": [
+    {
+      "case": "base",
+      "runway_months": null
+    },
+    {
+      "case": "conservative",
+      "runway_months": null
+    }
+  ],
+  "flags": [
+    "Complete absence of financial data (P&L, Balance Sheet, Cash Flow).",
+    "Company is at a pre-revenue stage with no paying customers mentioned.",
+    "No user traction metrics provided (e.g., waitlist size, sign-up rate).",
+    "Financial viability is entirely dependent on securing the requested funding."
+  ]
+}

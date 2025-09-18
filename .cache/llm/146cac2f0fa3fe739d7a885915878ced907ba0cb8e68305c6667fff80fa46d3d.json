@@ -1,0 +1,54 @@
+{
+  "scalability": {
+    "summary": "AI-powered studio enables businesses to create and deploy thousands of immersive 3D/XR experiences at scale from text or images.",
+    "drivers": [
+      "automation",
+      "API"
+    ],
+    "unit_cost_levers": [
+      "AI-driven asset generation"
+    ]
+  },
+  "fundraising": {
+    "total_raised_to_date": null,
+    "current_round": null,
+    "target_raise": null,
+    "pre_money": null,
+    "post_money": null,
+    "dilution_target_pct": null,
+    "deal_rationale": ""
+  },
+  "funding_ask": {
+    "ask": 1200000,
+    "milestones": [],
+    "spend_breakdown": [],
+    "runway_months": null,
+    "commitments_or_lois": []
+  },
+  "key_problem_solved": {
+    "customer_pain_points": [
+      "Creating immersive 3D/XR experiences is complex and requires specialized skills",
+      "App downloads create friction for users",
+      "Scaling 3D content creation across many SKUs is difficult"
+    ],
+    "solution_how": [
+      "Provides a no-code/low-code 3D engine for web-based XR commerce",
+      "Uses a proprietary AI (VersaAI) to generate 3D assets from text or images",
+      "Enables instant creation and deployment of experiences across web, mobile, and headsets"
+    ]
+  },
+  "why_now": {
+    "thesis": "All human interaction, physical or online, is inevitably moving to immersive reality.",
+    "catalysts": [
+      "Technological advancements in AI and real-time rendering",
+      "Behavioral shift towards immersive digital commerce"
+    ],
+    "proof_points": [
+      "Patent Granted"
+    ]
+  },
+  "data_quality_notes": [
+    "Funding ask is stated, but no details on use of funds, milestones, or runway are provided.",
+    "The document is a high-level pitch and lacks specific metrics on traction, revenue, or user engagement."
+  ]
+}

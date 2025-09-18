@@ -1,0 +1,686 @@
+{
+  "run_id": "1758129219_5b1247",
+  "company": "Ctruh",
+  "sector": "Technology",
+  "facts": {
+    "founders": [],
+    "traction": [
+      {
+        "metric": "Funding Ask",
+        "value": 1200000,
+        "notes": "The company is asking for $1.2M in funding."
+      },
+      {
+        "metric": "Hiring",
+        "value": "1st Hire",
+        "notes": "The company has made its first hire."
+      },
+      {
+        "metric": "User Acquisition",
+        "value": "Waitlist",
+        "notes": "The company is currently collecting sign-ups via a waitlist."
+      }
+    ],
+    "unit_economics": [],
+    "market": [
+      {
+        "name": "XR Commerce",
+        "notes": "Positioned in the immersive reality commerce market."
+      },
+      {
+        "name": "Competitors",
+        "value": [
+          "Vectary",
+          "Unity",
+          "Spline",
+          "Obsess",
+          "Emperia",
+          "Zakeke",
+          "VNTANA",
+          "Zero10",
+          "Wanna"
+        ]
+      }
+    ],
+    "product": [
+      {
+        "name": "Unified XR Commerce Studio",
+        "description": "An AI-powered studio for businesses to create, manage, and deploy immersive 3D and XR experiences across web, mobile, and headsets.",
+        "features": [
+          "Proprietary no-code 3D engine",
+          "VersaAI for 3D asset generation from text or images",
+          "Smart Try-On for apparel and accessories",
+          "AI Product Scanner (2D to 3D in under 30 seconds)",
+          "Dynamic Store/Showroom Builder",
+          "Real-time Analytics with AI insights"
+        ],
+        "differentiators": [
+          "Real-time rendering",
+          "Web-based with no app downloads required",
+          "Multi-platform support"
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "type": "Patent",
+        "status": "Granted",
+        "notes": "The company has been granted a patent."
+      }
+    ]
+  },
+  "claims": [
+    "The company is seeking $1.2M in funding.",
+    "A patent has been granted for its technology.",
+    "Ctruh is described as the 'World\u2019s First AI-Powered Unified XR Commerce Studio'.",
+    "The platform features a proprietary no-code 3D engine for web-based XR.",
+    "Its VersaAI engine generates 3D assets from text or image inputs.",
+    "The AI Product Scanner converts 2D images into 3D models in under 30 seconds.",
+    "The platform offers real-time rendering, a feature most listed competitors lack.",
+    "The virtual 'Smart Try-On' feature does not require an app download.",
+    "Ctruh provides multi-platform support for web, mobile, and headsets.",
+    "The studio includes a drag-and-drop builder for virtual stores and showrooms."
+  ],
+  "verification": {
+    "checks": [
+      {
+        "claim": "The company is seeking $1.2M in funding.",
+        "status": "unknown",
+        "rationale": "The provided evidence discusses $1.2M funding rounds for numerous other companies, such as Glassbox and Sirius, but does not mention Ctruh.",
+        "evidence": []
+      },
+      {
+        "claim": "A patent has been granted for its technology.",
+        "status": "unknown",
+        "rationale": "The provided evidence does not contain any information about patents related to Ctruh or its technology.",
+        "evidence": []
+      },
+      {
+        "claim": "Ctruh is described as the 'World\u2019s First AI-Powered Unified XR Commerce Studio'.",
+        "status": "unknown",
+        "rationale": "The provided evidence does not mention the company Ctruh or this specific descriptive phrase.",
+        "evidence": []
+      },
+      {
+        "claim": "The platform features a proprietary no-code 3D engine for web-based XR.",
+        "status": "unknown",
+        "rationale": "There is no information in the provided sources regarding Ctruh's platform, a no-code 3D engine, or its features.",
+        "evidence": []
+      },
+      {
+        "claim": "Its VersaAI engine generates 3D assets from text or image inputs.",
+        "status": "unknown",
+        "rationale": "The provided evidence does not mention a 'VersaAI' engine or any features related to the company Ctruh.",
+        "evidence": []
+      },
+      {
+        "claim": "The AI Product Scanner converts 2D images into 3D models in under 30 seconds.",
+        "status": "unknown",
+        "rationale": "The provided sources are unrelated to Ctruh and do not contain any information about an 'AI Product Scanner' or its capabilities.",
+        "evidence": []
+      },
+      {
+        "claim": "The platform offers real-time rendering, a feature most listed competitors lack.",
+        "status": "unknown",
+        "rationale": "The provided evidence does not discuss Ctruh, its platform features like real-time rendering, or any comparison to its competitors.",
+        "evidence": []
+      },
+      {
+        "claim": "The virtual 'Smart Try-On' feature does not require an app download.",
+        "status": "unknown",
+        "rationale": "There is no mention of a 'Smart Try-On' feature or the company Ctruh in any of the provided evidence.",
+        "evidence": []
+      },
+      {
+        "claim": "Ctruh provides multi-platform support for web, mobile, and headsets.",
+        "status": "unknown",
+        "rationale": "The provided evidence is entirely unrelated to Ctruh and does not contain any information about its platform support.",
+        "evidence": []
+      },
+      {
+        "claim": "The studio includes a drag-and-drop builder for virtual stores and showrooms.",
+        "status": "unknown",
+        "rationale": "The provided sources do not mention Ctruh or any of its studio features, such as a drag-and-drop builder.",
+        "evidence": []
+      }
+    ]
+  },
+  "score": {
+    "breakdown": {
+      "founders": 0,
+      "traction": 0,
+      "unit_econ": 0,
+      "market": 20
+    },
+    "total": 4.0,
+    "bullets": [
+      "Crucially, none of the company's claims could be verified with the provided evidence.",
+      "No information was provided on the founding team, a critical factor for an early-stage company.",
+      "Reported traction is minimal (a waitlist) and remains unverified.",
+      "There is a complete absence of data regarding unit economics.",
+      "The company targets a potentially large but highly competitive market with many established players."
+    ]
+  },
+  "benchmarks": {
+    "peers": [
+      {
+        "name": "AltWorld",
+        "brief_reason": "Direct competitor in the Indian metaverse platform space, also at a similar early stage.",
+        "url": "https://altworld.in/",
+        "stage": "Seed",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "Focuses on a no-code metaverse creation platform for creators and gamers."
+      },
+      {
+        "name": "CloudWorx",
+        "brief_reason": "Indian startup providing a no-code platform for creating and distributing immersive 3D experiences.",
+        "url": "https://cloudworx.ai/",
+        "stage": "Seed",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "Targets enterprises for creating virtual showrooms, training modules, and events."
+      },
+      {
+        "name": "LOKA",
+        "brief_reason": "An Indian metaverse startup focused on creating virtual replicas of real-world locations.",
+        "url": "https://loka.world/",
+        "stage": "Seed",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "Competes for user engagement in the Indian metaverse space, with a focus on localized content."
+      },
+      {
+        "name": "Trace Network Labs",
+        "brief_reason": "Provides 'metaverse-as-a-service' for brands, a similar B2B model to Ctruh's platform.",
+        "url": "https://tracenetwork.io/",
+        "stage": "Seed",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "Enables lifestyle brands to create virtual storefronts and experiences, with a Web3 focus."
+      },
+      {
+        "name": "Interality",
+        "brief_reason": "Bengaluru-based platform helping brands and creators build metaverse and Web3 experiences.",
+        "url": "https://www.interality.io/",
+        "stage": "Seed",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "Also operates in the no-code/low-code space for metaverse content creation."
+      },
+      {
+        "name": "Plutoverse",
+        "brief_reason": "Indian virtual world platform, competing in the broader domestic metaverse ecosystem.",
+        "url": "https://plutoverse.io/",
+        "stage": "Pre-seed",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "More consumer-focused but building similar underlying 3D world technology."
+      },
+      {
+        "name": "Zippy Vision",
+        "brief_reason": "Indian AR startup providing a no-code platform for e-commerce, a key use case for Ctruh's tech.",
+        "url": "https://zippyvision.com/",
+        "stage": "Seed",
+        "revenue_or_arr": null,
+        "ev": null,
+        "notes": "Focuses on a specific vertical (retail) but competes in the no-code immersive tech space."
+      }
+    ],
+    "insights": [
+      "The Indian metaverse/AR/VR space is crowded with numerous seed-stage startups founded between 2020-2022, indicating a highly competitive early market.",
+      "A common strategy among peers is enabling brands and enterprises with 'metaverse-as-a-service' tools, validating Ctruh's B2B no-code platform approach.",
+      "Very low initial revenue is the norm for this sector; the primary focus for seed-stage companies is product development and user acquisition, not immediate monetization.",
+      "There is a strong geographic concentration of competitors in Indian tech hubs like Bengaluru and Delhi NCR, creating intense competition for talent and capital."
+    ]
+  },
+  "narrative": {
+    "scalability": {
+      "summary": "AI-powered studio enables businesses to create and deploy thousands of immersive 3D/XR experiences at scale from text or images.",
+      "drivers": [
+        "automation",
+        "API"
+      ],
+      "unit_cost_levers": [
+        "AI-driven asset generation"
+      ]
+    },
+    "fundraising": {
+      "total_raised_to_date": null,
+      "current_round": null,
+      "target_raise": null,
+      "pre_money": null,
+      "post_money": null,
+      "dilution_target_pct": null,
+      "deal_rationale": ""
+    },
+    "funding_ask": {
+      "ask": 1200000,
+      "milestones": [],
+      "spend_breakdown": [],
+      "runway_months": null,
+      "commitments_or_lois": []
+    },
+    "key_problem_solved": {
+      "customer_pain_points": [
+        "Creating immersive 3D/XR experiences is complex and requires specialized skills",
+        "App downloads create friction for users",
+        "Scaling 3D content creation across many SKUs is difficult"
+      ],
+      "solution_how": [
+        "Provides a no-code/low-code 3D engine for web-based XR commerce",
+        "Uses a proprietary AI (VersaAI) to generate 3D assets from text or images",
+        "Enables instant creation and deployment of experiences across web, mobile, and headsets"
+      ]
+    },
+    "why_now": {
+      "thesis": "All human interaction, physical or online, is inevitably moving to immersive reality.",
+      "catalysts": [
+        "Technological advancements in AI and real-time rendering",
+        "Behavioral shift towards immersive digital commerce"
+      ],
+      "proof_points": [
+        "Patent Granted"
+      ]
+    },
+    "data_quality_notes": [
+      "Funding ask is stated, but no details on use of funds, milestones, or runway are provided.",
+      "The document is a high-level pitch and lacks specific metrics on traction, revenue, or user engagement."
+    ]
+  },
+  "finance": {
+    "metrics": {
+      "net_burn_mo": null,
+      "runway_months": null,
+      "zero_cash_date": null,
+      "cac_payback_months": null
+    },
+    "assumptions": [
+      "No financial data (revenue, expenses, cash balance) was provided.",
+      "Company is assumed to be pre-revenue and pre-launch, based on 'Waitlist' status.",
+      "The $1.2M funding ask is a future target, not current cash on hand.",
+      "Calculations are not possible due to the absence of financial information."
+    ],
+    "sensitivities": [
+      {
+        "case": "base",
+        "runway_months": null
+      },
+      {
+        "case": "conservative",
+        "runway_months": null
+      }
+    ],
+    "flags": [
+      "Complete absence of financial data (P&L, Balance Sheet, Cash Flow).",
+      "Company is at a pre-revenue stage with no paying customers mentioned.",
+      "No user traction metrics provided (e.g., waitlist size, sign-up rate).",
+      "Financial viability is entirely dependent on securing the requested funding."
+    ]
+  },
+  "founder_research": {
+    "founders": []
+  },
+  "market_validation": {
+    "tam": {
+      "value": 282600000000,
+      "currency": "USD",
+      "year": 2025,
+      "method": "Top-down analysis using the total projected revenue of the Indian technology sector as the TAM, assuming Ctruh is an India-focused tech company.",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/india/indian-tech-sector-seen-growing-51-fy25-nasscom-says-2025-02-24/",
+          "quote": "India's technology sector is expected to grow at a higher pace this fiscal year... reaching $282.6 billion, industry body Nasscom said on Monday."
+        }
+      ]
+    },
+    "sam": {
+      "value": 22600000000,
+      "currency": "USD",
+      "assumptions": [
+        "Ctruh targets a specific sub-segment of the Indian tech market, such as enterprise AI or digital transformation solutions.",
+        "This serviceable market is estimated to be 8% of the total Indian technology market (TAM).",
+        "The company's products and services are tailored for the needs of this specific segment within India."
+      ]
+    },
+    "som": {
+      "value": 226000000,
+      "currency": "USD",
+      "assumptions": [
+        "Assumes Ctruh can realistically capture 1% of its SAM within the next 3-5 years.",
+        "This capture rate is based on projected sales and marketing efforts, product-market fit, and the competitive landscape.",
+        "The go-to-market strategy is focused on acquiring a specific customer profile within the SAM."
+      ]
+    },
+    "delta_vs_deck": {
+      "tam_pct": null,
+      "notes": "No pitch deck was provided for Ctruh to compare against."
+    }
+  },
+  "competitive_positioning": {
+    "table": [
+      {
+        "name": "Ctruh",
+        "stage": "Seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Seed stage valuation"
+      },
+      {
+        "name": "AltWorld",
+        "stage": "Seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Seed stage valuation"
+      },
+      {
+        "name": "CloudWorx",
+        "stage": "Seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Seed stage valuation"
+      },
+      {
+        "name": "LOKA",
+        "stage": "Seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Seed stage valuation"
+      },
+      {
+        "name": "Trace Network Labs",
+        "stage": "Seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Seed stage valuation"
+      },
+      {
+        "name": "Interality",
+        "stage": "Seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Seed stage valuation"
+      },
+      {
+        "name": "Zippy Vision",
+        "stage": "Seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Seed stage valuation"
+      },
+      {
+        "name": "Plutoverse",
+        "stage": "Pre-seed",
+        "arr": null,
+        "growth_yoy": null,
+        "cac": null,
+        "ltv": null,
+        "ev_arr_band": "Pre-seed stage valuation"
+      }
+    ],
+    "positioning_bullets": [
+      "Ctruh operates in a crowded, early-stage Indian metaverse market where most competitors are also at the Seed/Pre-seed stage.",
+      "The target's B2B 'metaverse-as-a-service' model is a common approach, indicating market validation but also intense competition.",
+      "Given the pre-revenue nature of the peer group, competitive differentiation will rely on technology, GTM strategy, and team, not financial metrics.",
+      "Valuations for Ctruh and its peers are driven by market potential, technology, and milestones rather than current revenue multiples."
+    ],
+    "data_quality_notes": [
+      "No financial data (ARR, growth, CAC, LTV, EV) was available for the target or any peers.",
+      "Quantitative ranking by ARR growth or CAC/LTV is not possible due to the complete absence of relevant data.",
+      "EV/ARR multiples are not applicable for these pre-revenue, seed-stage companies; valuation bands are inferred based on stage."
+    ]
+  },
+  "customer_sentiment": {
+    "app": {
+      "platform": null,
+      "rating": null,
+      "reviews_sample": null
+    },
+    "themes": {
+      "pros": [
+        "No-code platform for non-technical users",
+        "AI-driven 3D conversion capabilities",
+        "Affordable and easy to use"
+      ],
+      "cons": [
+        "Intense, fast-paced work environment",
+        "Poorly rated for job security by some employees",
+        "Concerns about salary and benefits"
+      ]
+    },
+    "social_snippets": [
+      {
+        "url": "https://www.g2.com/products/ctruh/reviews",
+        "quote": "Working as a freelance 3D artist, Ctruh allowed me the setup basic 3D scenes and VR/AR without coding."
+      },
+      {
+        "url": "https://www.getapp.com/emerging-technology-software/a/ctruh/",
+        "quote": "Ctruh is a 3D editor tool that helps businesses design immersive experiences using a no-code application."
+      },
+      {
+        "url": "https://www.glassdoor.co.in/Reviews/Ctruh-Reviews-E8704629.htm",
+        "quote": "Ctruh has an employee rating of 4.9 out of 5 stars, based on 32 company reviews on Glassdoor..."
+      }
+    ],
+    "alerts": [
+      "Employee reviews on AmbitionBox rate job security, salary, and promotions poorly."
+    ]
+  },
+  "legal_compliance": {
+    "requirements": [
+      "Compliance with the Digital Personal Data Protection Act (DPDPR)",
+      "Compliance with the Information Technology Act, 2000 and SPDI Rules, 2011",
+      "Intellectual Property (IP) rights registration and licensing compliance",
+      "Adherence to information security regulations",
+      "Compliance with Ministry of Electronics and Information Technology (MeitY) frameworks",
+      "Technology transfer and licensing agreement regulations",
+      "For FinTech: AML/CFT compliance, including CTR and STR reporting",
+      "For HealthTech: Clinical trial registration and ethical compliance (2019-CTRules)"
+    ],
+    "matched": [],
+    "missing": [
+      "Compliance with the Digital Personal Data Protection Act (DPDPR)",
+      "Compliance with the Information Technology Act, 2000 and SPDI Rules, 2011",
+      "Intellectual Property (IP) rights registration and licensing compliance",
+      "Adherence to information security regulations"
+    ],
+    "citations": [
+      {
+        "url": "https://www.indiaconnected.co.uk/blog-articles/digital-compliance-india-preparing-international-business-requirements-2026/",
+        "quote": "This regulatory framework introduces several key requirements that international companies must address through their digital compliance strategies. Organizations must establish comprehensive policies that align with the DPDPR framework."
+      },
+      {
+        "url": "https://iclg.com/practice-areas/technology-sourcing-laws-and-regulations/india",
+        "quote": "Until such enforcement, the applicable legal framework remains the Information Technology Act, 2000 and the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (\u201cSPDI Rules\u201d)."
+      },
+      {
+        "url": "https://www.wrightresearch.in/encyclopedia/chapter-report/chapter-4-regulatory-frameworks-in-indias-it-sector/",
+        "quote": "The regulatory frameworks governing the Indian Information Technology (IT) industry are crucial in shaping its growth and ensuring its alignment with global standards. The Ministry of Electronics and Information Technology (MeitY) has identified public digital platforms as key catalysts for economic transformation..."
+      },
+      {
+        "url": "https://www.indialawoffices.com/legal-articles/technology-licensing-agreement-and-intellectual-property-protection",
+        "quote": "A technology licensing agreement allows authorized use of patented technology by another entity while retaining exclusive ownership. Read on to learn about the prominent components, compliance requirements, and the associated legal specifications in India."
+      },
+      {
+        "url": "https://ksandk.com/information-technology/technology-transfer-regulations-in-india/",
+        "quote": "The Technology Transfer Regulations in India are as follows: \u2013 1. Patent Pooling, in which two or more businesses join and cross licence the relevant technology to prevent others from purchasing it."
+      },
+      {
+        "url": "https://amlwatcher.com/our-coverage/india/",
+        "quote": "Banks and financial institutions are required to furnish certain reports like the Cash Transaction Report (CTR) and the Suspicious Transaction Report (STR) to the Financial Intelligence Unit-India (FIU-IND)."
+      },
+      {
+        "url": "https://clinregs.niaid.nih.gov/country/india",
+        "quote": "As delineated in the 2019-CTRules, ECs also have a continuing responsibility to monitor approved clinical trials and biomedical and health research studies to ensure ethical compliance throughout the study duration."
+      }
+    ]
+  },
+  "risks": [
+    {
+      "code": "TAM_INFLATION",
+      "severity": "high",
+      "message": "The Total Addressable Market is significantly inflated by using the entire Indian technology sector's revenue.",
+      "evidence_excerpt": "Top-down analysis using the total projected revenue of the Indian technology sector as the TAM..."
+    },
+    {
+      "code": "RUNWAY_CONCERN",
+      "severity": "high",
+      "message": "Complete absence of financial data; runway is unknown and viability depends entirely on securing the requested funding.",
+      "evidence_excerpt": "Complete absence of financial data (P&L, Balance Sheet, Cash Flow)."
+    },
+    {
+      "code": "UNVERIFIED_CLAIMS",
+      "severity": "high",
+      "message": "All key claims about the product, patent status, and funding are unverified by the provided evidence.",
+      "evidence_excerpt": "claim: 'A patent has been granted for its technology.', status: 'unknown', rationale: 'The provided evidence does not contain any information about patents related to Ctruh...'"
+    },
+    {
+      "code": "COMPLIANCE_GAP",
+      "severity": "medium",
+      "message": "Key Indian data protection and IT regulations (DPDPR, IT Act) are unaddressed.",
+      "evidence_excerpt": "missing: ['Compliance with the Digital Personal Data Protection Act (DPDPR)', 'Compliance with the Information Technology Act, 2000 and SPDI Rules, 2011...']"
+    },
+    {
+      "code": "NEGATIVE_SENTIMENT",
+      "severity": "low",
+      "message": "Negative employee reviews cite poor job security, salary, and promotion prospects.",
+      "evidence_excerpt": "Employee reviews on AmbitionBox rate job security, salary, and promotions poorly."
+    }
+  ],
+  "term_sheet": {
+    "clauses": [
+      "1x Non-Participating Liquidation Preference",
+      "Broad-Based Weighted Average Anti-Dilution",
+      "Standard Protective Provisions",
+      "Investor Board Seat",
+      "Pro-Rata Rights",
+      "Founder Vesting (4-year, 1-year cliff)",
+      "Right of First Refusal (ROFR) & Co-Sale"
+    ],
+    "dilution": [
+      {
+        "holder": "Founders",
+        "post_pct": 0.7621
+      },
+      {
+        "holder": "ESOP",
+        "post_pct": 0.1
+      },
+      {
+        "holder": "NewInvestor",
+        "post_pct": 0.1379
+      }
+    ],
+    "plain": [
+      "Investors get their money back first in a sale. 1x non-participating is standard.",
+      "Protects investors if a future funding round happens at a lower valuation.",
+      "Gives investors veto rights on major corporate actions like a sale or merger.",
+      "Lead investor gets a seat on the company's Board of Directors.",
+      "Allows current investors to maintain their ownership percentage in future rounds.",
+      "Ensures founders stay with the company; shares are earned over time.",
+      "Controls how and to whom founders can sell their shares."
+    ]
+  },
+  "sector_insights": {
+    "kpis": [
+      "Monthly Recurring Revenue (MRR) Growth",
+      "Customer Acquisition Cost (CAC)",
+      "LTV:CAC Ratio",
+      "Churn Rate",
+      "Net Promoter Score (NPS)",
+      "Gross Margin",
+      "Daily Active Users (DAU)",
+      "Customer Retention Rate"
+    ],
+    "baselines": [
+      {
+        "kpi": "MRR Growth",
+        "target": 15.0,
+        "unit": "%",
+        "period": "monthly"
+      },
+      {
+        "kpi": "Customer Acquisition Cost (CAC)",
+        "target": 500.0,
+        "unit": "USD",
+        "period": "monthly"
+      },
+      {
+        "kpi": "LTV:CAC Ratio",
+        "target": 3.0,
+        "unit": null,
+        "period": "quarterly"
+      },
+      {
+        "kpi": "Churn Rate",
+        "target": 2.0,
+        "unit": "%",
+        "period": "monthly"
+      },
+      {
+        "kpi": "Net Promoter Score (NPS)",
+        "target": 50.0,
+        "unit": null,
+        "period": "quarterly"
+      },
+      {
+        "kpi": "Gross Margin",
+        "target": 75.0,
+        "unit": "%",
+        "period": "quarterly"
+      },
+      {
+        "kpi": "Customer Retention Rate",
+        "target": 95.0,
+        "unit": "%",
+        "period": "monthly"
+      }
+    ],
+    "snippets": [
+      "Driving MRR growth through strategic upselling and new market penetration.",
+      "Optimizing CAC by refining digital marketing channels and improving conversion rates.",
+      "Maintaining a healthy LTV:CAC ratio above 3:1 to ensure sustainable growth.",
+      "Reducing monthly churn below 2% with proactive customer success initiatives.",
+      "Boosting user engagement and product stickiness to increase Daily Active Users.",
+      "Achieving a Net Promoter Score of 50+ to reflect strong customer loyalty.",
+      "Sustaining high gross margins through scalable cloud infrastructure.",
+      "Focusing on product innovation to enhance user value and drive long-term retention."
+    ]
+  },
+  "sources": [
+    "data/Ctruth.pdf",
+    "https://altworld.in/",
+    "https://amlwatcher.com/our-coverage/india/",
+    "https://clinregs.niaid.nih.gov/country/india",
+    "https://cloudworx.ai/",
+    "https://iclg.com/practice-areas/technology-sourcing-laws-and-regulations/india",
+    "https://ksandk.com/information-technology/technology-transfer-regulations-in-india/",
+    "https://loka.world/",
+    "https://plutoverse.io/",
+    "https://tracenetwork.io/",
+    "https://www.ctruh.com/about/company/about-us",
+    "https://www.g2.com/products/ctruh/reviews",
+    "https://www.getapp.com/emerging-technology-software/a/ctruh/",
+    "https://www.glassdoor.co.in/Reviews/Ctruh-Reviews-E8704629.htm",
+    "https://www.indiaconnected.co.uk/blog-articles/digital-compliance-india-preparing-international-business-requirements-2026/",
+    "https://www.indialawoffices.com/legal-articles/technology-licensing-agreement-and-intellectual-property-protection",
+    "https://www.interality.io/",
+    "https://www.reuters.com/world/india/indian-tech-sector-seen-growing-51-fy25-nasscom-says-2025-02-24/",
+    "https://www.wrightresearch.in/encyclopedia/chapter-report/chapter-4-regulatory-frameworks-in-indias-it-sector/",
+    "https://zippyvision.com/"
+  ]
+}

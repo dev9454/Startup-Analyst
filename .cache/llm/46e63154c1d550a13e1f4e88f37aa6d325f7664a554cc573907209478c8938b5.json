@@ -1,0 +1,40 @@
+{
+  "tam": {
+    "value": 282600000000,
+    "currency": "USD",
+    "year": 2025,
+    "method": "Top-down analysis using the projected total revenue of the Indian technology sector, as reported by NASSCOM, representing the entire technology spending landscape in the country.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Information_technology_in_India",
+        "quote": "India's tech sector FY25 revenue to grow 5.1% to $282.6 billion: Nasscom"
+      },
+      {
+        "url": "https://www.corumgroup.com/insights/indias-vibrant-technology-landscape",
+        "quote": "According to the National Association of Software and Service Companies (NASSCOM), an Indian non-governmental trade association and advocacy group, India's tech sector is expected to see a 5.1% revenue increase in 2025, reaching $282.6 billion..."
+      }
+    ]
+  },
+  "sam": {
+    "value": 58800000000,
+    "currency": "USD",
+    "assumptions": [
+      "The Serviceable Addressable Market is the domestic portion of India's total technology industry revenue, which is the primary target for a new Indian tech company.",
+      "The domestic market's growth is assumed to be proportional to the overall Indian tech sector's growth from $245B in FY23 to $282.6B in FY25.",
+      "Calculation is based on projecting the FY23 domestic revenue of $51 billion forward to FY25."
+    ]
+  },
+  "som": {
+    "value": 147000000,
+    "currency": "USD",
+    "assumptions": [
+      "The Serviceable Obtainable Market is the share Ctruh can realistically capture in the near-term (3-5 years).",
+      "Assumes a realistic capture rate of 0.25% of the SAM, reflecting an ambitious but achievable goal for a startup in a niche like enterprise metaverse solutions.",
+      "This target is contingent on successful product development, go-to-market strategy, and securing early adopters within the Indian enterprise segment."
+    ]
+  },
+  "delta_vs_deck": {
+    "tam_pct": null,
+    "notes": "No pitch deck was provided for comparison against the calculated TAM."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "checks": [
+    {
+      "claim": "The company is raising a $1.2M seed round.",
+      "status": "unknown",
+      "rationale": "The provided evidence lists numerous companies that have raised $1.2M seed rounds, but none of them are identified as Ctruh. There is no information available to confirm or deny this claim for the specified company.",
+      "evidence": []
+    },
+    {
+      "claim": "The team grew to 36 members in 24 months.",
+      "status": "unknown",
+      "rationale": "The provided sources focus on funding announcements and general market trends. There is no information regarding the team size or growth rate of Ctruh.",
+      "evidence": []
+    },
+    {
+      "claim": "Ctruh applications have over 1,600 active users.",
+      "status": "unknown",
+      "rationale": "The provided evidence does not contain any data on the number of active users for Ctruh applications. One source mentions user numbers for a different company, but this is not relevant.",
+      "evidence": []
+    },
+    {
+      "claim": "The company has acquired 30 customers, including 9 enterprise clients.",
+      "status": "unknown",
+      "rationale": "The provided articles and posts discuss funding rounds but do not offer specific details about Ctruh's customer base, number of clients, or enterprise contracts.",
+      "evidence": []
+    },
+    {
+      "claim": "The company holds 2 patents and intellectual properties.",
+      "status": "unknown",
+      "rationale": "There is no information within the provided sources regarding patents or intellectual property held by Ctruh. The documents focus on financial investments in various companies.",
+      "evidence": []
+    },
+    {
+      "claim": "Four products have been launched, including a 3D Engine and VersaAI.",
+      "status": "unknown",
+      "rationale": "The provided evidence lacks any details about product launches, specific product names like \"3D Engine\" or \"VersaAI,\" or the product portfolio of Ctruh.",
+      "evidence": []
+    },
+    {
+      "claim": "Vinay Agastya is the Founder and CEO.",
+      "status": "unknown",
+      "rationale": "The provided sources do not mention the name Vinay Agastya or identify the founder or CEO of Ctruh. The information is focused on funding events for other unrelated companies.",
+      "evidence": []
+    },
+    {
+      "claim": "Website visitors grew 5.25% to over 59,000 in the last year.",
+      "status": "unknown",
+      "rationale": "The provided evidence does not include any analytics or data regarding website traffic, visitor numbers, or growth percentages for Ctruh.",
+      "evidence": []
+    },
+    {
+      "claim": "Ctruh is part of accelerator programs by Microsoft, Google, and NVIDIA.",
+      "status": "unknown",
+      "rationale": "There is no mention of Ctruh's participation in accelerator programs from Microsoft, Google, NVIDIA, or any other organization within the supplied evidence.",
+      "evidence": []
+    },
+    {
+      "claim": "The company was a finalist in the LinkedIn Talent Awards 2023.",
+      "status": "unknown",
+      "rationale": "The provided sources, including several LinkedIn posts, do not contain any information about the LinkedIn Talent Awards 2023 or mention Ctruh as a finalist.",
+      "evidence": []
+    }
+  ]
+}

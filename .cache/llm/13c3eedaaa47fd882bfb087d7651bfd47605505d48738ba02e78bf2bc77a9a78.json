@@ -1,0 +1,7 @@
+{
+  "checks": [
+    {
+      "claim": "The company operates in a whitespace with no direct competition.",
+      "status": "unknown",
+      "rationale": "The provided evidence discusses the general business concept of 'white space' but contains no specific information about the company's market position or competitors.",
+      "evidence":

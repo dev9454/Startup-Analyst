@@ -1,0 +1,34 @@
+{
+  "risks": [
+    {
+      "code": "TAM_INFLATION",
+      "severity": "high",
+      "message": "The Total Addressable Market is significantly inflated by using the entire Indian technology sector's revenue.",
+      "evidence_excerpt": "Top-down analysis using the total projected revenue of the Indian technology sector as the TAM..."
+    },
+    {
+      "code": "RUNWAY_CONCERN",
+      "severity": "high",
+      "message": "Complete absence of financial data; runway is unknown and viability depends entirely on securing the requested funding.",
+      "evidence_excerpt": "Complete absence of financial data (P&L, Balance Sheet, Cash Flow)."
+    },
+    {
+      "code": "UNVERIFIED_CLAIMS",
+      "severity": "high",
+      "message": "All key claims about the product, patent status, and funding are unverified by the provided evidence.",
+      "evidence_excerpt": "claim: 'A patent has been granted for its technology.', status: 'unknown', rationale: 'The provided evidence does not contain any information about patents related to Ctruh...'"
+    },
+    {
+      "code": "COMPLIANCE_GAP",
+      "severity": "medium",
+      "message": "Key Indian data protection and IT regulations (DPDPR, IT Act) are unaddressed.",
+      "evidence_excerpt": "missing: ['Compliance with the Digital Personal Data Protection Act (DPDPR)', 'Compliance with the Information Technology Act, 2000 and SPDI Rules, 2011...']"
+    },
+    {
+      "code": "NEGATIVE_SENTIMENT",
+      "severity": "low",
+      "message": "Negative employee reviews cite poor job security, salary, and promotion prospects.",
+      "evidence_excerpt": "Employee reviews on AmbitionBox rate job security, salary, and promotions poorly."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "peers": [
+    {
+      "name": "AltWorld",
+      "brief_reason": "Direct competitor in the Indian metaverse platform space, also at a similar early stage.",
+      "url": "https://altworld.in/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Focuses on a no-code metaverse creation platform for creators and gamers."
+    },
+    {
+      "name": "CloudWorx",
+      "brief_reason": "Indian startup providing a no-code platform for creating and distributing immersive 3D experiences.",
+      "url": "https://cloudworx.ai/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Targets enterprises for creating virtual showrooms, training modules, and events."
+    },
+    {
+      "name": "LOKA",
+      "brief_reason": "An Indian metaverse startup focused on creating virtual replicas of real-world locations.",
+      "url": "https://loka.world/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Competes for user engagement in the Indian metaverse space, with a focus on localized content."
+    },
+    {
+      "name": "Trace Network Labs",
+      "brief_reason": "Provides 'metaverse-as-a-service' for brands, a similar B2B model to Ctruh's platform.",
+      "url": "https://tracenetwork.io/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Enables lifestyle brands to create virtual storefronts and experiences, with a Web3 focus."
+    },
+    {
+      "name": "Interality",
+      "brief_reason": "Bengaluru-based platform helping brands and creators build metaverse and Web3 experiences.",
+      "url": "https://www.interality.io/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Also operates in the no-code/low-code space for metaverse content creation."
+    },
+    {
+      "name": "Plutoverse",
+      "brief_reason": "Indian virtual world platform, competing in the broader domestic metaverse ecosystem.",
+      "url": "https://plutoverse.io/",
+      "stage": "Pre-seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "More consumer-focused but building similar underlying 3D world technology."
+    },
+    {
+      "name": "Zippy Vision",
+      "brief_reason": "Indian AR startup providing a no-code platform for e-commerce, a key use case for Ctruh's tech.",
+      "url": "https://zippyvision.com/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Focuses on a specific vertical (retail) but competes in the no-code immersive tech space."
+    }
+  ],
+  "insights": [
+    "The Indian metaverse/AR/VR space is crowded with numerous seed-stage startups founded between 2020-2022, indicating a highly competitive early market.",
+    "A common strategy among peers is enabling brands and enterprises with 'metaverse-as-a-service' tools, validating Ctruh's B2B no-code platform approach.",
+    "Very low initial revenue is the norm for this sector; the primary focus for seed-stage companies is product development and user acquisition, not immediate monetization.",
+    "There is a strong geographic concentration of competitors in Indian tech hubs like Bengaluru and Delhi NCR, creating intense competition for talent and capital."
+  ]
+}

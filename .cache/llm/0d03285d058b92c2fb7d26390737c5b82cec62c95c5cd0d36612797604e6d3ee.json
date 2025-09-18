@@ -1,0 +1,96 @@
+{
+  "founders": [
+    {
+      "name": "David Power",
+      "timeline": [
+        {
+          "role": "Founder",
+          "org": "Paddy Power",
+          "start": null,
+          "end": null
+        }
+      ],
+      "gaps": [],
+      "signals": {
+        "positive": [
+          "Founded a major, well-known gambling company."
+        ],
+        "concerns": [
+          "Company he founded has been involved in multiple legal and ethical controversies, including failure to pay winnings and employee theft."
+        ]
+      },
+      "litigation": [
+        {
+          "url": "https://www.theguardian.com/business/2025/mar/05/uk-high-court-tells-paddy-power-to-pay-1m-prize-to-winner-offered-20k",
+          "summary": "High Court ordered Paddy Power to pay a £1m prize to a winner who was initially offered only £20k due to a programming error."
+        },
+        {
+          "url": "https://www.breakingnews.ie/ireland/paddy-power-employee-who-stole-e67000-gambled-it-away-with-firm-1375966.html",
+          "summary": "A Paddy Power employee stole €67,000 from the company and gambled it away with the same firm."
+        }
+      ]
+    },
+    {
+      "name": "Paddy McKillen jnr",
+      "timeline": [
+        {
+          "role": "Businessman / Guarantor",
+          "org": "Welltrack Ltd, Yarnway Ltd, Ahlstom Ltd, Dontigo Ltd",
+          "start": null,
+          "end": null
+        }
+      ],
+      "gaps": [],
+      "signals": {
+        "positive": [
+          "Involved in multiple business ventures."
+        ],
+        "concerns": [
+          "Facing a lawsuit seeking judgment of €8.7 million for allegedly defaulting on loan guarantees."
+        ]
+      },
+      "litigation": [
+        {
+          "url": "https://www.irishtimes.com/crime-law/courts/2025/05/12/judgment-for-87m-sought-against-paddy-mckillen-junior-court-hears/",
+          "summary": "Cabriz Finance Ltd is seeking an €8.7 million judgment against him for alleged failure to pay on guarantees for loans to four associated companies."
+        }
+      ]
+    },
+    {
+      "name": "Paddy Docherty",
+      "timeline": [
+        {
+          "role": "Chief Executive",
+          "org": "Phoenix Africa Development Company",
+          "start": "2009",
+          "end": "2018"
+        },
+        {
+          "role": "Historian & Artist",
+          "org": "Self-Employed",
+          "start": null,
+          "end": null
+        }
+      ],
+      "gaps": [
+        {
+          "months": 72,
+          "between": [
+            "Phoenix Africa Development Company (2018)",
+            "Present"
+          ]
+        }
+      ],
+      "signals": {
+        "positive": [
+          "Oxford educated (BA & MSt in History).",
+          "CEO of a social impact agricultural business in Africa for 9 years.",
+          "Involvement with World Economic Forum and UN FAO.",
+          "Published author with major publishers."
+        ],
+        "concerns": []
+      },
+      "litigation": []
+    }
+  ]
+}

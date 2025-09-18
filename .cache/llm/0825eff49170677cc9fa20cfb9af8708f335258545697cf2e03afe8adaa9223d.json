@@ -1,0 +1,36 @@
+{
+  "app": {
+    "platform": null,
+    "rating": null,
+    "reviews_sample": null
+  },
+  "themes": {
+    "pros": [
+      "No-code platform for non-technical users",
+      "AI-driven 3D conversion capabilities",
+      "Affordable and easy to use"
+    ],
+    "cons": [
+      "Intense, fast-paced work environment",
+      "Poorly rated for job security by some employees",
+      "Concerns about salary and benefits"
+    ]
+  },
+  "social_snippets": [
+    {
+      "url": "https://www.g2.com/products/ctruh/reviews",
+      "quote": "Working as a freelance 3D artist, Ctruh allowed me the setup basic 3D scenes and VR/AR without coding."
+    },
+    {
+      "url": "https://www.getapp.com/emerging-technology-software/a/ctruh/",
+      "quote": "Ctruh is a 3D editor tool that helps businesses design immersive experiences using a no-code application."
+    },
+    {
+      "url": "https://www.glassdoor.co.in/Reviews/Ctruh-Reviews-E8704629.htm",
+      "quote": "Ctruh has an employee rating of 4.9 out of 5 stars, based on 32 company reviews on Glassdoor..."
+    }
+  ],
+  "alerts": [
+    "Employee reviews on AmbitionBox rate job security, salary, and promotions poorly."
+  ]
+}

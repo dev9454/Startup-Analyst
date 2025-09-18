@@ -1,0 +1,58 @@
+{
+  "kpis": [
+    "Customer Acquisition Cost (CAC)",
+    "Customer Lifetime Value (LTV)",
+    "LTV:CAC Ratio",
+    "Monthly Recurring Revenue (MRR)",
+    "Churn Rate",
+    "Net Revenue Retention (NRR)",
+    "Average Revenue Per User (ARPU)",
+    "Gross Transaction Volume (GTV)"
+  ],
+  "baselines": [
+    {
+      "kpi": "Customer Acquisition Cost (CAC)",
+      "target": 250.0,
+      "unit": "USD",
+      "period": "monthly"
+    },
+    {
+      "kpi": "LTV:CAC Ratio",
+      "target": 3.0,
+      "unit": null,
+      "period": "quarterly"
+    },
+    {
+      "kpi": "MRR Growth",
+      "target": 15.0,
+      "unit": "%",
+      "period": "monthly"
+    },
+    {
+      "kpi": "Churn Rate",
+      "target": 2.0,
+      "unit": "%",
+      "period": "monthly"
+    },
+    {
+      "kpi": "Net Revenue Retention (NRR)",
+      "target": 110.0,
+      "unit": "%",
+      "period": "quarterly"
+    },
+    {
+      "kpi": "Average Revenue Per User (ARPU)",
+      "target": 50.0,
+      "unit": "USD",
+      "period": "monthly"
+    }
+  ],
+  "snippets": [
+    "Drive LTV:CAC ratio above 3x for profitable, sustainable growth.",
+    "Targeting a 15% month-over-month increase in Monthly Recurring Revenue.",
+    "Maintain monthly customer churn below 2% to maximize user retention.",
+    "Achieve Net Revenue Retention of 110% through expansion revenue.",
+    "Reduce Customer Acquisition Cost to under $250 per new customer.",
+    "Increase Average Revenue Per User (ARPU) to $50/month via premium features."
+  ]
+}

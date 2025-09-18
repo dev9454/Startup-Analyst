@@ -1,0 +1,73 @@
+{
+  "peers": [
+    {
+      "name": "Jar",
+      "brief_reason": "Micro-savings and automated investment app focused on digital gold, targeting a similar user base.",
+      "url": "https://www.jar.ac/",
+      "stage": "Series B",
+      "revenue_or_arr": null,
+      "ev": "~$300M",
+      "notes": "Strong traction in making savings a daily habit for users."
+    },
+    {
+      "name": "Tortoise",
+      "brief_reason": "Direct competitor with a 'Save Now, Buy Later' (SNBL) model for large purchases.",
+      "url": "https://www.tortoise.pro/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Model is very similar to Multipl, focusing on goal-based savings linked to specific purchases."
+    },
+    {
+      "name": "Fi Money",
+      "brief_reason": "Neobank offering a suite of services including savings, payments, and investments for millennials.",
+      "url": "https://fi.money/",
+      "stage": "Series C",
+      "revenue_or_arr": null,
+      "ev": "~$700M",
+      "notes": "Competes for the same digitally-savvy user base with a broader financial product offering."
+    },
+    {
+      "name": "Jupiter",
+      "brief_reason": "Leading digital banking platform providing savings, payments (UPI), and wealth management.",
+      "url": "https://jupiter.money/",
+      "stage": "Series C",
+      "revenue_or_arr": null,
+      "ev": "~$710M",
+      "notes": "A major player in the broader consumer fintech space that Multipl operates within."
+    },
+    {
+      "name": "Groww",
+      "brief_reason": "Dominant online investment platform that sets the benchmark for retail wealthtech in India.",
+      "url": "https://groww.in/",
+      "stage": "Late Stage / Unicorn",
+      "revenue_or_arr": "~$155M (FY24)",
+      "ev": "$3B",
+      "notes": "While much larger, it's a key competitor for the user's investment wallet."
+    },
+    {
+      "name": "INDmoney",
+      "brief_reason": "Comprehensive wealth management app for tracking and investing across multiple asset classes.",
+      "url": "https://www.indmoney.com/",
+      "stage": "Series D",
+      "revenue_or_arr": null,
+      "ev": "~$650M",
+      "notes": "Competes on the investment and wealth management side of consumer fintech."
+    },
+    {
+      "name": "Spenny",
+      "brief_reason": "Micro-savings app that invests spare change, similar to Jar's model.",
+      "url": "https://spenny.in/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Focuses on building savings habits through automated micro-transactions."
+    }
+  ],
+  "insights": [
+    "The Indian consumer fintech market is crowded, forcing new entrants like Multipl to succeed by targeting specific niches like goal-based savings or micro-investing.",
+    "Long-term growth and monetization often require diversification beyond the initial niche, evolving into broader financial 'super apps' that combine savings, payments, credit, and investments.",
+    "High valuations are common despite intense competition, driven by India's massive addressable market of young, digitally-native consumers.",
+    "Successful platforms often leverage behavioral finance concepts, such as automated micro-savings (Jar) or goal-oriented 'Save Now, Buy Later' models (Multipl, Tortoise), to build user habits."
+  ]
+}

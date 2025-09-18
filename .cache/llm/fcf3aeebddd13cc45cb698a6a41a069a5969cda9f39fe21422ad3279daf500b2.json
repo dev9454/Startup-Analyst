@@ -1,0 +1,64 @@
+{
+  "peers": [
+    {
+      "name": "Tortoise",
+      "brief_reason": "Direct competitor in the 'Save Now, Buy Later' (SNBL) space in India, focusing on goal-based savings for large purchases.",
+      "url": "https://www.tortoise.pro/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Backed by prominent VCs like Vertex Ventures and Better Capital, validating the SNBL model."
+    },
+    {
+      "name": "Hubble",
+      "brief_reason": "Another key SNBL player in India that partners with brands to offer rewards and discounts on goal-based savings.",
+      "url": "https://www.gethubble.in/",
+      "stage": "Seed",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Model relies heavily on brand partnerships for user incentives and monetization."
+    },
+    {
+      "name": "Jar",
+      "brief_reason": "A leading micro-savings app that automates daily savings by investing spare change in digital gold.",
+      "url": "https://www.jar.money/",
+      "stage": "Series B",
+      "revenue_or_arr": null,
+      "ev": "$300M (2022 valuation)",
+      "notes": "Demonstrated massive user acquisition by simplifying the savings process into a daily habit."
+    },
+    {
+      "name": "Fi Money",
+      "brief_reason": "Neobank targeting salaried millennials with a suite of services including smart savings, investments, and spending analytics.",
+      "url": "https://fi.money/",
+      "stage": "Series C",
+      "revenue_or_arr": null,
+      "ev": "$700M (2022 valuation)",
+      "notes": "Competes for the same digitally-savvy user base with a broader, integrated banking offering."
+    },
+    {
+      "name": "Siply",
+      "brief_reason": "Micro-savings and investment platform focused on India's underserved population, enabling small ticket-size investments.",
+      "url": "https://siply.in/",
+      "stage": "Series A",
+      "revenue_or_arr": null,
+      "ev": null,
+      "notes": "Addresses a different market segment but competes in the broader micro-savings landscape."
+    },
+    {
+      "name": "Jupiter",
+      "brief_reason": "Prominent Indian neobank offering a comprehensive digital banking experience, including savings, payments, and lending.",
+      "url": "https://jupiter.money/",
+      "stage": "Series C",
+      "revenue_or_arr": null,
+      "ev": "$710M (2021 valuation)",
+      "notes": "Represents the trend of bundling various fintech services into a single platform."
+    }
+  ],
+  "insights": [
+    "The Indian savings-tech space is highly fragmented, with startups succeeding by targeting specific user behaviors (e.g., micro-savings with Jar) or models (e.g., 'Save Now, Buy Later' with Tortoise).",
+    "There is a clear convergence of savings, payments, investments, and lending. Neobanks like Fi and Jupiter are bundling these services, creating competitive pressure on single-purpose apps.",
+    "Monetization remains a key challenge. Models vary from brand partnerships (Hubble) to investment commissions (Jar) and interchange fees (Fi), but a clear path to profitability is not yet established for most.",
+    "While funding was abundant in 2021-2022, investors now focus more on unit economics and sustainable growth, favoring startups with clear differentiation and revenue models."
+  ]
+}

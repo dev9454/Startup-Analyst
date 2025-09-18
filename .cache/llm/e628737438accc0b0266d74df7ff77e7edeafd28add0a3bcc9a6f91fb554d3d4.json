@@ -1,0 +1,113 @@
+{
+  "founders": [],
+  "traction": [
+    {
+      "metric": "Registered Users",
+      "value": "700K+"
+    },
+    {
+      "metric": "KYC-Verified Users",
+      "value": "200K+"
+    },
+    {
+      "metric": "Assets Under Advisory (AUA)",
+      "value": "₹100 Cr"
+    },
+    {
+      "metric": "Active Consumer Goals (Value)",
+      "value": "₹600 Cr+"
+    },
+    {
+      "metric": "Total Goals Created",
+      "value": "100K+"
+    },
+    {
+      "metric": "Goal Completion Rate",
+      "value": "~80%"
+    },
+    {
+      "metric": "Repeat Goal Creation",
+      "value": "~40%"
+    },
+    {
+      "metric": "Consumer Value Delivered",
+      "value": "₹30 Cr+"
+    }
+  ],
+  "unit_economics": [
+    {
+      "metric": "CAC",
+      "value": "₹450"
+    },
+    {
+      "metric": "LTV (4 years)",
+      "value": "₹9,000"
+    },
+    {
+      "metric": "LTV:CAC Ratio",
+      "value": "20x"
+    },
+    {
+      "metric": "Blended Revenue Margin",
+      "value": "2.5% - 5.5%"
+    },
+    {
+      "metric": "Sign-up to Goal Conversion",
+      "value": "~25%"
+    },
+    {
+      "metric": "Average Transaction Value",
+      "value": "₹1,200"
+    }
+  ],
+  "market": [
+    {
+      "fact": "Market Opportunity",
+      "details": "High adoption of Digital Wealth Tech and surging goal-based spending."
+    },
+    {
+      "fact": "Competitive Advantage",
+      "details": "3-10x higher revenue margins than peers and deep partnership moats."
+    },
+    {
+      "fact": "Potential Exit Pathways",
+      "details": "Strategic acquisition by banks, AMCs, or payment players, or an IPO."
+    }
+  ],
+  "product": [
+    {
+      "fact": "Core Offering",
+      "details": "A goal-based savings and investment platform using mutual funds."
+    },
+    {
+      "fact": "Distribution Strategy",
+      "details": "B2B2C model with embedded integrations into partner ecosystems."
+    },
+    {
+      "fact": "Key Partners",
+      "details": "Samsung, MakeMyTrip, Myntra, Ixigo, FundsIndia."
+    },
+    {
+      "fact": "Monetization",
+      "details": "Dual revenue streams from both Asset Management Companies (AMCs) and brand partners."
+    }
+  ],
+  "legal": [
+    {
+      "fact": "Company Name",
+      "details": "Multipl"
+    },
+    {
+      "fact": "Current Funding Round",
+      "details": "Raising a ₹12–14 Cr Pre-Series A round."
+    },
+    {
+      "fact": "Investors",
+      "details": "Blume Ventures, GrowX Ventures, MIXI Inc, QED Innovation, Kotak Securities."
+    },
+    {
+      "fact": "Regulatory Compliance",
+      "details": "Holds SEBI RIA, AMFI empanelment, and TPAP UPI licenses."
+    }
+  ]
+}

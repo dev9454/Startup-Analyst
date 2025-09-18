@@ -1,0 +1,70 @@
+{
+  "scalability": {
+    "summary": "Achieving hyper-scale through a B2B2C model, embedding its 'spend-linked investing' product into major brand and financial partner ecosystems.",
+    "drivers": [
+      "Embedded brand partnerships (Samsung, MakeMyTrip)",
+      "Financial ecosystem integrations (AMCs, FundsIndia)",
+      "Influencer-led marketing",
+      "Self-sustaining flywheel model"
+    ],
+    "unit_cost_levers": [
+      "Reduced CAC via partner customer bases",
+      "High retention and repeat engagement reducing marketing burn",
+      "Capital-efficient model proven with modest burn"
+    ]
+  },
+  "fundraising": {
+    "total_raised_to_date": null,
+    "current_round": "Pre-Series A",
+    "target_raise": 140000000,
+    "pre_money": null,
+    "post_money": null,
+    "dilution_target_pct": null,
+    "deal_rationale": "To accelerate growth in embedded brand partnerships, deepen AMC integrations, and expand the product stack with credit and instant redemption features."
+  },
+  "funding_ask": {
+    "ask": 140000000,
+    "milestones": [
+      "Accelerate embedded brand partnerships",
+      "Deepen AMC integrations",
+      "Expand product stack (credit, instant redemption, co-branded solutions)",
+      "Scale users from 500K to 4M+ by CY26",
+      "Grow revenue from 1.3 Cr (FY25) to 80 Cr (CY26)"
+    ],
+    "spend_breakdown": [],
+    "runway_months": null,
+    "commitments_or_lois": []
+  },
+  "key_problem_solved": {
+    "customer_pain_points": [
+      "Difficulty saving for specific lifestyle goals",
+      "Low returns on traditional savings products",
+      "Disconnect between financial planning and consumption"
+    ],
+    "solution_how": [
+      "Pioneers 'Spend-Linked Investing' by combining mutual fund returns (7-12%) with brand-funded discounts (5-15%).",
+      "Delivers superior effective returns (~20% IRR) on savings for specific goals.",
+      "Embeds investment opportunities at the point of purchase with partner brands."
+    ]
+  },
+  "why_now": {
+    "thesis": "Multipl is creating a new category at the intersection of wealthtech, payments, and loyalty, capitalizing on massive tailwinds in digital adoption and goal-based spending.",
+    "catalysts": [
+      "Digital wealth tech adoption is at an all-time high",
+      "Goal-based spending is a surging consumer behavior",
+      "Rapid growth in India's mutual fund industry (17% CAGR) and consumption economy"
+    ],
+    "proof_points": [
+      "₹100 Cr AUA and ₹600 Cr+ in goals created",
+      "700K+ registered users",
+      "Superior unit economics with 20x LTV:CAC ratio",
+      "High-margin model (5-5.5%) vs. industry peers (0.5-1.5%)",
+      "Partnerships with major brands like Samsung, MakeMyTrip, Myntra, and Ixigo",
+      "Backed by institutional investors including Blume Ventures and GrowX Ventures"
+    ]
+  },
+  "data_quality_notes": [
+    "Fundraising target is a range (₹12-14 Cr); upper bound used.",
+    "No pre-money valuation, runway, or spend breakdown provided."
+  ]
+}

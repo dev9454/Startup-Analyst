@@ -1,0 +1,62 @@
+{
+  "requirements": [
+    "Company Incorporation (Companies Act, 2013)",
+    "GST Registration",
+    "Shops & Establishment Act Registration",
+    "Professional Tax Registration",
+    "NBFC License (Non-Banking Financial Company)",
+    "Payment Aggregator/Gateway License",
+    "Prepaid Payment Instrument (PPI) License",
+    "Account Aggregator (AA) License",
+    "SEBI Investment Advisor/Broker Registration",
+    "IRDAI License for Insurance Services",
+    "KYC/AML Compliance",
+    "Data Protection Law Compliance",
+    "Provident Fund (PF) Registration",
+    "Employees’ State Insurance (ESI) Registration"
+  ],
+  "matched": [
+    "Company Incorporation (Companies Act, 2013)"
+  ],
+  "missing": [
+    "GST Registration",
+    "Shops & Establishment Act Registration",
+    "Professional Tax Registration",
+    "NBFC License (Non-Banking Financial Company)",
+    "Payment Aggregator/Gateway License",
+    "Prepaid Payment Instrument (PPI) License",
+    "Account Aggregator (AA) License",
+    "SEBI Investment Advisor/Broker Registration",
+    "IRDAI License for Insurance Services",
+    "KYC/AML Compliance",
+    "Data Protection Law Compliance",
+    "Provident Fund (PF) Registration",
+    "Employees’ State Insurance (ESI) Registration"
+  ],
+  "citations": [
+    {
+      "url": "https://www.legal500.com/guides/chapter/india-fintech/",
+      "quote": "The Companies Act, 2013 (Companies Act) governs the incorporation, management, and operation of companies in India. Fintech players will also be required to comply with applicable labour laws."
+    },
+    {
+      "url": "https://www.enkash.com/resources/blog/essential-business-licenses-for-fintech-in-india/",
+      "quote": "Typically, fintechs require GST registration, Shops & Establishments registration (for offices), and professional tax registrations, depending on the state. Additional licenses may apply based on business models, such as a PPI license for wallets or NBFC registration for lending."
+    },
+    {
+      "url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/india",
+      "quote": "For many financial offerings, prior approvals and licences need to be obtained from the RBI, SEBI or IRDAI for a business to commence."
+    },
+    {
+      "url": "https://www.argus-p.com/papers-publications/thought-paper/fintech-in-india-an-overview-of-the-current-regulatory-landscape/",
+      "quote": "an outline on the major sector agnostic and cross-sectoral regulations such as outsourcing, know your customer (“KYC”) guidelines, consumer protection and data privacy governance that apply across the fintech ecosystem."
+    },
+    {
+      "url": "https://ally-law.com/fintech-regulation-guide-india/",
+      "quote": "A variety of FinTech services are eligible to obtain license in India from respective sectoral regulators. Some available licenses include – peer-to-peer lending platforms; payment and settlement systems; banking as well as non-banking financial services; online investment platforms; online insurance aggregators; and crowdfunding platforms."
+    },
+    {
+      "url": "https://globalpeoplestrategist.com/legal-compliance-checklist-for-establishing-a-business-in-india/",
+      "quote": "Provident Fund (PF) Registration – Mandatory for businesses with 20 or more employees. Employees’ State Insurance (ESI) Registration – Required for businesses with 10 or more employees providing medical benefits."
+    }
+  ]
+}

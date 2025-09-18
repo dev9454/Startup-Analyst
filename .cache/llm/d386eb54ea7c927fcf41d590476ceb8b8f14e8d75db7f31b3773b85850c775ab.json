@@ -1,0 +1,35 @@
+{
+  "app": {
+    "platform": "Apple App Store",
+    "rating": 3.5,
+    "reviews_sample": [
+      {
+        "quote": "Good purpose, Not very Clear",
+        "date": null
+      }
+    ]
+  },
+  "themes": {
+    "pros": [
+      "Helps users avoid debt traps",
+      "Ability to win rewards, cashback, and jackpots",
+      "Aims to provide guaranteed lowest prices"
+    ],
+    "cons": [
+      "App purpose and functionality can be unclear to users",
+      "Contains gambling and contests",
+      "Requires iOS 14.0 or later, limiting older devices"
+    ]
+  },
+  "social_snippets": [
+    {
+      "url": "https://multipl.in/",
+      "quote": "There’s no downside to spendvesting. Literally nothing to lose! -Rahul Kapoor"
+    }
+  ],
+  "alerts": [
+    "App Store age rating notes 'Frequent Contests' and 'Contains Gambling and Contests'.",
+    "Company website reports zero complaints received or pending for a recent month.",
+    "A Glassdoor review mentions 'Fast paced Ad hoc product development' and short deadlines."
+  ]
+}

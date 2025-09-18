@@ -1,0 +1,79 @@
+{
+  "table": [
+    {
+      "name": "Multipl",
+      "stage": "Seed/Series A (Est.)",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "15-40x (Est.)"
+    },
+    {
+      "name": "Tortoise",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Pre-revenue / N.A."
+    },
+    {
+      "name": "Hubble",
+      "stage": "Seed",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "Pre-revenue / N.A."
+    },
+    {
+      "name": "Siply",
+      "stage": "Series A",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "20-40x (Est.)"
+    },
+    {
+      "name": "Jar",
+      "stage": "Series B",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "15-30x (Est.)"
+    },
+    {
+      "name": "Fi Money",
+      "stage": "Series C",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "10-25x (Est.)"
+    },
+    {
+      "name": "Jupiter",
+      "stage": "Series C",
+      "arr": null,
+      "growth_yoy": null,
+      "cac": null,
+      "ltv": null,
+      "ev_arr_band": "10-25x (Est.)"
+    }
+  ],
+  "positioning_bullets": [
+    "Multipl competes directly with Tortoise and Hubble in the niche 'Save Now, Buy Later' (SNBL) market, focusing on goal-based savings.",
+    "Positioned as a specialized tool for large purchases, differentiating from broad neobanks (Fi, Jupiter) and micro-savings apps (Jar).",
+    "Faces competitive pressure from neobanks bundling similar savings features into their all-in-one platforms.",
+    "Success hinges on demonstrating superior unit economics (CAC/LTV) and forging strong brand partnerships to drive user adoption."
+  ],
+  "data_quality_notes": [
+    "No financial metrics (ARR, Growth, CAC, LTV) were available for the target or peers, making a quantitative ranking impossible.",
+    "EV/ARR bands are inferred based on company stage and market trends, not on reported financials.",
+    "Valuations for late-stage peers (Jar, Fi, Jupiter) are dated (2021-22) and may not reflect current market conditions.",
+    "Data for the target company, Multipl, was not provided and its stage is an estimation based on the competitive landscape."
+  ]
+}

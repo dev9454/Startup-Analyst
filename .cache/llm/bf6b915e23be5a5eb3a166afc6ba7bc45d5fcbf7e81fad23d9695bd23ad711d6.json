@@ -1,0 +1,57 @@
+{
+  "requirements": [
+    "Banking or Non-Banking Financial Company (NBFC) License from RBI for lending/deposits",
+    "SEBI Registration for securities broking or investment advisory",
+    "IRDAI License for insurance aggregation or broking",
+    "Payment System Operator License (e.g., Payment Aggregator) from RBI",
+    "Financial Intelligence Unit (FIU-IND) Registration",
+    "Know-Your-Customer (KYC) and Anti-Money Laundering (AML) framework implementation",
+    "Suspicious Transaction Reporting (STRs) to FIU-IND",
+    "Data privacy and protection compliance (e.g., DPDP Act)",
+    "Data localization requirements",
+    "Minimum net-worth and capital adequacy standards",
+    "Consumer protection measures, including grievance redressal mechanism",
+    "General business compliance: GST, TDS, Income Tax, FEMA, Labor Laws (PF, ESI)"
+  ],
+  "matched": [],
+  "missing": [
+    "Banking or Non-Banking Financial Company (NBFC) License from RBI for lending/deposits",
+    "SEBI Registration for securities broking or investment advisory",
+    "IRDAI License for insurance aggregation or broking",
+    "Payment System Operator License (e.g., Payment Aggregator) from RBI",
+    "Financial Intelligence Unit (FIU-IND) Registration",
+    "Know-Your-Customer (KYC) and Anti-Money Laundering (AML) framework implementation",
+    "Suspicious Transaction Reporting (STRs) to FIU-IND",
+    "Data privacy and protection compliance (e.g., DPDP Act)",
+    "Data localization requirements",
+    "Minimum net-worth and capital adequacy standards",
+    "Consumer protection measures, including grievance redressal mechanism",
+    "General business compliance: GST, TDS, Income Tax, FEMA, Labor Laws (PF, ESI)"
+  ],
+  "citations": [
+    {
+      "url": "https://www.legal500.com/guides/chapter/india-fintech/",
+      "quote": "Fintech players may also be required to obtain registrations with other financial sector regulators...For instance, WealthTechs which engage in securities broking and investment advisory services must register with SEBI, whereas InsurTechs...are required to be licensed by IRDAI."
+    },
+    {
+      "url": "https://ally-law.com/fintech-regulation-guide-india/",
+      "quote": "At present, India offers licenses for several unique fintech businesses such as Peer-to-Peer (NBFC-P2P) platforms, Trade Receivables Discounting Systems, Pre-Paid Instruments; Payment Banks; Small Finance Banks; Buy Now Pay Later schemes; etc."
+    },
+    {
+      "url": "https://nbfcadvisory.com/fintech-compliance-checklist-for-indian-companies-in-2025/",
+      "quote": "FIU-IND Registration | Mandatory for fintech involved in financial transactions... KYC Verification Process | Implement CKYC/eKYC for all customers... Suspicious Transaction Reporting (STRs) | Reporting fraudulent & suspicious transactions to FIU-IND"
+    },
+    {
+      "url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/india",
+      "quote": "For many financial offerings, prior approvals and licences need to be obtained from the RBI, SEBI or IRDAI for a business to commence."
+    },
+    {
+      "url": "https://www.argus-p.com/papers-publications/thought-paper/fintech-in-india-an-overview-of-the-current-regulatory-landscape/",
+      "quote": "Key requirements under the RIA Regulations include mandatory registration, strict segregation between advisory and distribution services...and prescribed qualifications and NISM certifications for individuals offering advice."
+    },
+    {
+      "url": "https://globalpeoplestrategist.com/legal-compliance-checklist-for-establishing-a-business-in-india/",
+      "quote": "Provident Fund (PF) Registration – Mandatory for businesses with 20 or more employees. Employees’ State Insurance (ESI) Registration – Required for businesses with 10 or more employees providing medical benefits."
+    }
+  ]
+}

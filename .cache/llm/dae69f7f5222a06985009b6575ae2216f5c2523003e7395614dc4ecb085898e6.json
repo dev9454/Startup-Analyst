@@ -1,0 +1,67 @@
+{
+  "founders": [],
+  "traction": [
+    {
+      "metric": "Funding Ask",
+      "value": 1200000,
+      "notes": "The company is asking for $1.2M in funding."
+    },
+    {
+      "metric": "Hiring",
+      "value": "1st Hire",
+      "notes": "The company has made its first hire."
+    },
+    {
+      "metric": "User Acquisition",
+      "value": "Waitlist",
+      "notes": "The company is currently collecting sign-ups via a waitlist."
+    }
+  ],
+  "unit_economics": [],
+  "market": [
+    {
+      "name": "XR Commerce",
+      "notes": "Positioned in the immersive reality commerce market."
+    },
+    {
+      "name": "Competitors",
+      "value": [
+        "Vectary",
+        "Unity",
+        "Spline",
+        "Obsess",
+        "Emperia",
+        "Zakeke",
+        "VNTANA",
+        "Zero10",
+        "Wanna"
+      ]
+    }
+  ],
+  "product": [
+    {
+      "name": "Unified XR Commerce Studio",
+      "description": "An AI-powered studio for businesses to create, manage, and deploy immersive 3D and XR experiences across web, mobile, and headsets.",
+      "features": [
+        "Proprietary no-code 3D engine",
+        "VersaAI for 3D asset generation from text or images",
+        "Smart Try-On for apparel and accessories",
+        "AI Product Scanner (2D to 3D in under 30 seconds)",
+        "Dynamic Store/Showroom Builder",
+        "Real-time Analytics with AI insights"
+      ],
+      "differentiators": [
+        "Real-time rendering",
+        "Web-based with no app downloads required",
+        "Multi-platform support"
+      ]
+    }
+  ],
+  "legal": [
+    {
+      "type": "Patent",
+      "status": "Granted",
+      "notes": "The company has been granted a patent."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "metrics": {
+    "net_burn_mo": null,
+    "runway_months": null,
+    "zero_cash_date": null,
+    "cac_payback_months": null
+  },
+  "assumptions": [
+    "Key financial data such as cash on hand, monthly revenue, and monthly expenses are not provided in the text.",
+    "Without financial data, net burn, runway, and CAC payback cannot be calculated."
+  ],
+  "sensitivities": [
+    {
+      "case": "base",
+      "runway_months": null
+    },
+    {
+      "case": "conservative",
+      "runway_months": null
+    }
+  ],
+  "flags": [
+    "Complete absence of financial metrics (cash, revenue, expenses) prevents any financial analysis.",
+    "Traction metrics like users and customers are provided, but not monetized figures like MRR or ARR.",
+    "CAC and Gross Margin data are missing, making payback period calculation impossible.",
+    "Some information is future-dated (e.g., 'Metaverse Startup of the year 2025', '© 2025 Ctruh')."
+  ]
+}

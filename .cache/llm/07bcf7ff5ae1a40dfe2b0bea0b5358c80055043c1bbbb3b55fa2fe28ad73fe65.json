@@ -1,0 +1,36 @@
+{
+  "tam": {
+    "value": 150000000000,
+    "currency": "USD",
+    "year": 2025,
+    "method": "Top-down analysis using the projected total revenue of the Indian Fintech market.",
+    "sources": [
+      {
+        "url": "https://www.dnb.co.in/blog/rise-of-fintech/",
+        "quote": "In 2021, the valuation of India's FinTech sector was a robust $31 billion, and it's expected to soar to about $150 billion by 2025."
+      }
+    ]
+  },
+  "sam": {
+    "value": 9000000000,
+    "currency": "USD",
+    "assumptions": [
+      "SAM is the WealthTech (savings and investments) segment of the Indian fintech market, relevant to Multipl's 'save now, buy later' model.",
+      "The WealthTech segment is estimated at 6% of the total fintech market revenue, based on an EY report analysis for 2023.",
+      "This segment represents the target market for goal-based savings and investment platforms."
+    ]
+  },
+  "som": {
+    "value": 180000000,
+    "currency": "USD",
+    "assumptions": [
+      "Assumes Multipl can realistically capture a 2% market share of the SAM in the near term.",
+      "This accounts for competition from other savings platforms, BNPL providers, and traditional investment options.",
+      "Capture rate is dependent on successful user acquisition and execution of brand partnership strategy."
+    ]
+  },
+  "delta_vs_deck": {
+    "tam_pct": null,
+    "notes": "No public pitch deck found to compare TAM claims."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "app": {
+    "platform": "Web/Mobile",
+    "rating": 5.0,
+    "reviews_sample": [
+      {
+        "quote": "Working as a freelance 3D artist, Ctruh allowed me the setup basic 3D scenes and VR/AR without coding.",
+        "date": null
+      }
+    ]
+  },
+  "themes": {
+    "pros": [
+      "No-code platform for creating 3D/AR/VR experiences",
+      "User-friendly for non-technical creators",
+      "Supports building immersive environments and animations"
+    ],
+    "cons": [
+      "Very few customer reviews on major platforms like SourceForge and G2",
+      "No integrations are listed",
+      "Primarily employee reviews available, not customer feedback"
+    ]
+  },
+  "social_snippets": [
+    {
+      "url": "https://www.g2.com/products/ctruh/reviews",
+      "quote": "Ctruh allowed me the setup basic 3D scenes and VR/AR without coding. This makes the door open for non-technical users..."
+    }
+  ],
+  "alerts": [
+    "Conflicting review data: GetApp shows a 5.0 rating from 3 reviews, while SourceForge shows 0.0 with no reviews.",
+    "Most available reviews (Glassdoor, AmbitionBox) are from employees regarding workplace culture, not from software users."
+  ]
+}

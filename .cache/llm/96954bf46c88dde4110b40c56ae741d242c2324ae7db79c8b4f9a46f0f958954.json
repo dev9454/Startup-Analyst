@@ -1,0 +1,36 @@
+{
+  "tam": {
+    "value": 282600000000,
+    "currency": "USD",
+    "year": 2025,
+    "method": "Top-down analysis using the total projected revenue of the Indian technology sector as the TAM, assuming Ctruh is an India-focused tech company.",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/india/indian-tech-sector-seen-growing-51-fy25-nasscom-says-2025-02-24/",
+        "quote": "India's technology sector is expected to grow at a higher pace this fiscal year... reaching $282.6 billion, industry body Nasscom said on Monday."
+      }
+    ]
+  },
+  "sam": {
+    "value": 22600000000,
+    "currency": "USD",
+    "assumptions": [
+      "Ctruh targets a specific sub-segment of the Indian tech market, such as enterprise AI or digital transformation solutions.",
+      "This serviceable market is estimated to be 8% of the total Indian technology market (TAM).",
+      "The company's products and services are tailored for the needs of this specific segment within India."
+    ]
+  },
+  "som": {
+    "value": 226000000,
+    "currency": "USD",
+    "assumptions": [
+      "Assumes Ctruh can realistically capture 1% of its SAM within the next 3-5 years.",
+      "This capture rate is based on projected sales and marketing efforts, product-market fit, and the competitive landscape.",
+      "The go-to-market strategy is focused on acquiring a specific customer profile within the SAM."
+    ]
+  },
+  "delta_vs_deck": {
+    "tam_pct": null,
+    "notes": "No pitch deck was provided for Ctruh to compare against."
+  }
+}
